@@ -53,8 +53,14 @@ python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
 ## 测试
 
 ```bash
-python -m pytest tests/backend backend/tests -q
+# 后端（FastAPI / SQLite，59 用例）
+python -m pytest tests/backend backend/tests -q     # 或 npm run test:be
+
+# 前端纯逻辑模块（CRE v2 / Copilot / 身份一致性，21 用例）
+node --test tests/frontend/*.test.js                # 或 npm run test:fe
 ```
+
+前端核心逻辑已抽离为可测纯模块：`public/cre.js`（推荐引擎）、`public/copilot.js`（提示词副驾）、`public/identity.js`（模特一致性注入）——均无 DOM/全局状态依赖，确定性、可单测。
 
 ## 许可证
 

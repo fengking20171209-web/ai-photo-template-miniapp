@@ -13,7 +13,9 @@
     "catalog": "powershell -ExecutionPolicy Bypass -File scripts/generate_template_catalog.ps1",
     "check": "tsc --noEmit",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "test:fe": "node --test tests/frontend/*.test.js",
+    "test:be": "python -m pytest tests/backend backend/tests -q"
   },
   "devDependencies": {
     "@testing-library/react": "^16.3.2",
