@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   CP_FIELDS, cpTokens, cpConcepts, cpLibHay, cpBestLib, cpBestModel,
-  cpInferBg, cpInferOutfit, cpLightFor, cpStyleExtra, cpRenderDraft, cpParseDraft,
+  cpInferBg, cpInferOutfit, cpLightFor, cpStyleExtra, cpRenderDraft, cpParseDraft, composeDraft,
 } from '../../public/copilot.js';
 
 test('cpTokens 按多种分隔符切分', () => {
@@ -64,4 +64,28 @@ test('cpInferBg / cpInferOutfit / cpLightFor 概念映射', () => {
   assert.match(cpInferOutfit(new Set(['streetwear'])), /streetwear/);
   assert.equal(cpLightFor(new Set(['warm']), 0), 'warm golden-hour light');
   assert.match(cpStyleExtra(new Set(['editorial'])), /editorial/);
+});
+
+test('composeDraft 生成完整 7 段；用对象字段 + 显式覆盖', () => {
+  const model = { id: 'm', name: 'UU', tags: ['韩系'] };
+  const bg = { id: 'b', prompt_keywords: ['luxury hotel suite', 'warm light'] };
+  const outfit = { id: 'o', fashion_keywords: ['silk dress', 'editorial'] };
+  const f = composeDraft({ model, bg, outfit, concepts: new Set(['hotel', 'silk']), pose: 'seated', camera: '85mm' });
+  CP_FIELDS.forEach((k) => assert.ok(k in f));
+  assert.match(f.Model, /UU/);
+  assert.equal(f.Background, 'luxury hotel suite, warm light');
+  assert.equal(f.Outfit, 'silk dress, editorial');
+  assert.equal(f.Pose, 'seated');           // 显式覆盖
+  assert.equal(f.Camera, '85mm');            // 显式覆盖
+  // 往返：渲染后能被解析回 7 段
+  const { fields, structured } = cpParseDraft(cpRenderDraft(f));
+  assert.ok(structured);
+  assert.equal(Object.keys(fields).length, 7);
+});
+
+test('composeDraft 无 model/bg/outfit 时按概念推断', () => {
+  const f = composeDraft({ concepts: new Set(['hotel']) });
+  assert.match(f.Model, /未选择/);
+  assert.match(f.Background, /hotel/);
+  assert.ok(f.Outfit.length > 0);
 });

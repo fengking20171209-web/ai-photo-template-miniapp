@@ -5,7 +5,7 @@ import { tokenConcepts, conceptsOf, topMatches, recommend } from './cre.js';
 import {
   CP_FIELDS, CP_POSE, CP_LIGHT, CP_CAMERA, CP_STYLE_BASE,
   cpTokens, cpConcepts, cpLibHay, cpBestLib, cpBestModel,
-  cpInferBg, cpInferOutfit, cpLightFor, cpStyleExtra, cpRenderDraft, cpParseDraft,
+  cpInferBg, cpInferOutfit, cpLightFor, cpStyleExtra, cpRenderDraft, cpParseDraft, composeDraft,
 } from './copilot.js';
 
 /* ===== 常量 ===== */
@@ -1240,15 +1240,7 @@ async function cpAutoComplete() {
   cpStreamPush(`服装：${outfit ? outfit.name : '按概念推断'}`, true);
   await cpNextFrame();
   // 阶段5：草稿就绪
-  const f = {
-    'Model': model ? `${model.name}（锁定身份/脸）` : '(未选择，可上传参考图或留空)',
-    'Background': bg ? bg.prompt_keywords.join(', ') : cpInferBg(concepts),
-    'Outfit': outfit ? outfit.fashion_keywords.join(', ') : cpInferOutfit(concepts),
-    'Pose': CP_POSE[0],
-    'Lighting': cpLightFor(concepts, 0),
-    'Camera': CP_CAMERA[0],
-    'Style Keywords': CP_STYLE_BASE + cpStyleExtra(concepts),
-  };
+  const f = composeDraft({ model, bg, outfit, concepts });
   cpWriteDraft(cpRenderDraft(f));
   cpStreamPush('结构化草稿已就绪 ✓ — 可直接编辑后生成', true);
   setStatus('Copilot 已补全结构化草稿（流式）');
@@ -1312,13 +1304,7 @@ async function cpRandom() {
   const model = state.activeModel || (state.models.length ? weightedRandomModel() : null);
   if (model && (!state.activeModel || state.activeModel.id !== model.id)) useModel(model.id);
   const c = outfit ? conceptsOf('outfit', outfit) : new Set();
-  const f = {
-    'Model': model ? `${model.name}（锁定身份/脸）` : '(未选择)',
-    'Background': bg ? bg.prompt_keywords.join(', ') : cpInferBg(c),
-    'Outfit': outfit ? outfit.fashion_keywords.join(', ') : cpInferOutfit(c),
-    'Pose': pickRandom(CP_POSE), 'Lighting': cpLightFor(c, 0), 'Camera': pickRandom(CP_CAMERA),
-    'Style Keywords': CP_STYLE_BASE + cpStyleExtra(c),
-  };
+  const f = composeDraft({ model, bg, outfit, concepts: c, pose: pickRandom(CP_POSE), camera: pickRandom(CP_CAMERA) });
   cpWriteDraft(cpRenderDraft(f));
   cpOut('<div class="cp-note">已随机生成风格协调的草稿，可编辑后生成。</div>');
   setStatus('Copilot 随机草稿已生成');
@@ -1369,13 +1355,7 @@ async function smartGenerate() {
     const c = new Set(seed);
     if (bg) conceptsOf('bg', bg).forEach((x) => c.add(x));
     if (outfit) conceptsOf('outfit', outfit).forEach((x) => c.add(x));
-    const f = {
-      'Model': state.activeModel ? `${state.activeModel.name}（锁定身份/脸）` : '(未选择)',
-      'Background': bg ? bg.prompt_keywords.join(', ') : cpInferBg(c),
-      'Outfit': outfit ? outfit.fashion_keywords.join(', ') : cpInferOutfit(c),
-      'Pose': CP_POSE[0], 'Lighting': cpLightFor(c, 0), 'Camera': CP_CAMERA[0],
-      'Style Keywords': CP_STYLE_BASE + cpStyleExtra(c),
-    };
+    const f = composeDraft({ model: state.activeModel, bg, outfit, concepts: c });
     if (ta) { ta.value = cpRenderDraft(f); ta.dispatchEvent(new Event('input')); }
   } else {
     // 部分输入：保留用户文本，只补缺失的 背景/服装 + 标准 光线/镜头

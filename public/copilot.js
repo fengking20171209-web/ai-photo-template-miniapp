@@ -91,3 +91,19 @@ export function cpParseDraft(text) {
   });
   return { fields: f, structured };
 }
+
+/**
+ * 组装严格 7 段结构化草稿（纯函数，统一 autoComplete/random/smartGenerate 三处构建）。
+ * model/bg/outfit 为对象或 null；pose/lighting/camera 可显式覆盖，否则按概念/默认推断。
+ */
+export function composeDraft({ model = null, bg = null, outfit = null, concepts = new Set(), pose, lighting, camera } = {}) {
+  return {
+    Model: model ? `${model.name}（锁定身份/脸）` : '(未选择，可上传参考图或留空)',
+    Background: bg ? (bg.prompt_keywords || []).join(', ') : cpInferBg(concepts),
+    Outfit: outfit ? (outfit.fashion_keywords || []).join(', ') : cpInferOutfit(concepts),
+    Pose: pose || CP_POSE[0],
+    Lighting: lighting || cpLightFor(concepts, 0),
+    Camera: camera || CP_CAMERA[0],
+    'Style Keywords': CP_STYLE_BASE + cpStyleExtra(concepts),
+  };
+}
