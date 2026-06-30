@@ -7,6 +7,7 @@ import {
   cpTokens, cpConcepts, cpLibHay, cpBestLib, cpBestModel,
   cpInferBg, cpInferOutfit, cpLightFor, cpStyleExtra, cpRenderDraft, cpParseDraft, composeDraft,
 } from './copilot.js';
+import { DEFAULT_IDENTITY_PROMPT, DEFAULT_MODEL_NEGATIVE, applyModelIdentity } from './identity.js';
 
 /* ===== 常量 ===== */
 const FAVORITES_KEY = 'apt_favorites';
@@ -522,11 +523,8 @@ async function generateFromTemplate(templateId) {
     const background = document.getElementById('backgroundInput')?.value.trim() || '';
     let prompt = getPrompt();
     let negative = document.getElementById('negativeInput')?.value.trim() || '';
-    // 严格分层:用户输入(最高) > 模特身份 > 负面词。当前模特注入身份一致性+防换脸/换身材
-    if (state.activeModel) {
-      prompt = [prompt, IDENTITY_REINFORCE, state.activeModel.identity_prompt].filter(Boolean).join('，');
-      negative = [negative, state.activeModel.negative_prompt, BODY_NEGATIVE].filter(Boolean).join('，');
-    }
+    // 严格分层:用户输入(最高) > 模特身份 > 负面词(见 identity.js)
+    ({ prompt, negative } = applyModelIdentity({ basePrompt: prompt, baseNegative: negative, activeModel: state.activeModel }));
     const body = {};
     // DIY Prompt OS:不再发送 template_id(杜绝古风/貂蝉等模板自动注入)
     if (prompt) body.prompt = prompt;
@@ -818,11 +816,7 @@ document.getElementById('favFooterBtn')?.addEventListener('click', () => {
 
 /* ===== 模特库(本地存储,无 LoRA,靠参考脸图+一致性提示词) ===== */
 const MODELS_KEY = 'apt_models';
-const DEFAULT_IDENTITY_PROMPT = 'same person, identical face and identical body, consistent identity, same facial features, same body type and figure, same height and proportions, same hairstyle, full-body consistency';
-const DEFAULT_MODEL_NEGATIVE = 'face change, different person, inconsistent identity, multiple faces, different body, different body type, changed figure, altered proportions, distorted face, deformed body';
-// 始终注入的强化一致性子句(连老模特也生效,确保脸+身材一起保持)
-const IDENTITY_REINFORCE = 'keep the exact same person as the reference image: identical face AND identical body type, same figure, height, proportions, skin tone and hairstyle, fully consistent appearance from head to toe';
-const BODY_NEGATIVE = 'different body, different body type, changed figure, altered proportions, different height, different weight';
+// 身份一致性常量与注入逻辑见 ./identity.js（纯函数，可测）
 
 async function fetchModels() {
   try { const d = await api('/api/models'); state.models = d.models || []; }
