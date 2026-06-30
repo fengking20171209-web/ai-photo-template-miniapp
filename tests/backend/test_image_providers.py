@@ -160,3 +160,36 @@ def test_template_scene_kept_without_background():
     template = {"prompt_blocks": {"scene": "inside a palace hall"}}
     out = build_image_prompt(template, None, "agnes")
     assert "palace hall" in out          # legacy behavior preserved
+
+
+# --- DIY Prompt OS: 纯用户驱动，绝不注入模板 -------------------------------
+
+def test_build_diy_prompt_no_template_injection():
+    from backend.services.prompt_policy import build_diy_prompt, DIY_BASE_DIRECTIVE
+
+    out = build_diy_prompt("a woman on a city rooftop, neon night", "agnes", background="neon street")
+    # 用户输入与背景在内
+    assert "city rooftop" in out
+    assert "neon street" in out
+    # DIY 基线指令注入（反风格档案）
+    assert DIY_BASE_DIRECTIVE in out
+    # 绝不出现古风/历史美人等模板漂移词
+    low = out.lower()
+    for drift in ("ancient", "diaochan", "classical", "hanfu", "palace hall"):
+        assert drift not in low
+
+
+def test_build_diy_prompt_empty_user_still_neutral():
+    from backend.services.prompt_policy import build_diy_prompt, DIY_BASE_DIRECTIVE
+
+    out = build_diy_prompt("", "sensenova")
+    assert DIY_BASE_DIRECTIVE in out      # 仍给中性基线
+    assert "ancient" not in out.lower()
+
+
+def test_build_diy_prompt_anti_archetype_directive():
+    from backend.services.prompt_policy import DIY_BASE_DIRECTIVE
+
+    # 基线明确禁止预设风格档案 / 历史美人
+    assert "no predefined style archetypes" in DIY_BASE_DIRECTIVE
+    assert "no historical beauty presets" in DIY_BASE_DIRECTIVE
