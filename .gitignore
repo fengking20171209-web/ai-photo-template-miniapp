@@ -54,3 +54,7 @@ config/models.json
 msg.txt
 commit_msg*.txt
 logs/*.json
+
+# Runtime artifacts (not part of the product source)
+logs/
+output/
