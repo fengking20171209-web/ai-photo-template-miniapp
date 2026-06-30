@@ -1,0 +1,23 @@
+{
+  "task_id": "kt9308c183d7d5",
+  "ok": true,
+  "returncode": 0,
+  "prompt": "回复一个单词: OK",
+  "command": [
+    "C:\\Users\\Aerc\\.kimi-code\\bin\\kimi.exe",
+    "-p",
+    "回复一个单词: OK",
+    "--output-format",
+    "text"
+  ],
+  "stdout": "• 用户要求我回复一个单词 \"OK\"。这是一个简单的请求，不需要使用任何工具。\n\n• OK\n\nTo resume this session: kimi -r session_33aca66f-475c-4258-9a4c-c63be342cbc5",
+  "stdout_lines": [
+    "• 用户要求我回复一个单词 \"OK\"。这是一个简单的请求，不需要使用任何工具。",
+    "",
+    "• OK",
+    "",
+    "To resume this session: kimi -r session_33aca66f-475c-4258-9a4c-c63be342cbc5"
+  ],
+  "result_file": "output\\kimi-tasks\\kt9308c183d7d5.json",
+  "log_file": "logs\\kimi-task-kt9308c183d7d5.log"
+}

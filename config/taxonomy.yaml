@@ -1,0 +1,49 @@
+﻿# AI Fashion Asset Library — Taxonomy
+
+themes:
+  - bodycon_dress
+  - mini_dress
+  - sheer_panel_dress
+  - dudou_modern
+  - floral_skater_dress
+  - swimwear_editorial
+  - siuf_2026
+  - hotel_editorial
+
+silhouette:
+  - spaghetti_strap_bodycon
+  - ruched_bodycon
+  - bandage_bodycon
+  - pencil_midi_dress
+  - fit_and_flare
+  - skater_dress
+  - dudou_halter
+  - oriental_bodycon
+
+fabric:
+  - matte_compact_jersey
+  - ponte_double_knit
+  - satin
+  - silk
+  - soft_mesh_overlay
+  - lace_trim
+  - ribbed_knit
+  - stretch_crepe
+
+pose:
+  - three_quarter_turn
+  - looking_over_shoulder
+  - walking_forward
+  - hand_brushing_hair
+  - seated_elegantly
+  - standing_by_wall
+  - holding_clutch
+
+scene:
+  - luxury_hotel_corridor
+  - night_city_suite
+  - lounge_bar
+  - marble_lobby
+  - minimalist_studio
+  - lakeside
+  - cafe_terrace

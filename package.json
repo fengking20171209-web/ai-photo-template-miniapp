@@ -1,0 +1,30 @@
+{
+  "name": "ai-photo-template-miniapp",
+  "version": "0.1.0",
+  "description": "AI photo template generator for portrait-based style transformation.",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx scripts/generate_prompt.ts",
+    "generate": "tsx scripts/generate_prompt.ts",
+    "image": "tsx scripts/run_image_task.ts",
+    "api": "tsx scripts/start_api.ts",
+    "list": "tsx scripts/list_templates.ts",
+    "smoke": "powershell -ExecutionPolicy Bypass -File scripts/smoke_test.ps1",
+    "catalog": "powershell -ExecutionPolicy Bypass -File scripts/generate_template_catalog.ps1",
+    "check": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^22.10.1",
+    "drizzle-orm": "^0.45.2",
+    "jsdom": "^29.1.1",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3",
+    "vitest": "^1.6.0"
+  },
+  "dependencies": {
+    "mysql2": "^3.22.5"
+  }
+}

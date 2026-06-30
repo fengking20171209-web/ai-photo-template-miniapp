@@ -1,0 +1,51 @@
+{
+  "template_id": "siuf2026_14",
+  "category": "SIUF 2026 内衣秀",
+  "title": "14-future-swim",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 极简主义T台（minimize-runway），白色纯净背景，无多余装饰，建筑感线条空间分割",
+  "clothing": "Outfit: 银色金属泳装（swimwear-metallic），液态金属感高定连体泳装，无缝一体设计，几何镂空露出腰部和背部，银色金属扣件装饰，透明PVC高跟鞋",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，国际超模风格，25-30岁冷艳气质，长脸偏方，颧骨高挺，下颌线锐利，175-180cm骨感修长身材，超模比例十头身，冷白皮骨骼结构立体，锁骨突出颈部修长，无表情高级脸",
+    "face": "Hair: 丸子头（bun-clean），高位置圆润饱满在头顶偏后，干净利落无碎发，脖颈线条完全展现，极简主义发型搭配未来感造型",
+    "clothing": "Outfit: 银色金属泳装（swimwear-metallic），液态金属感高定连体泳装，无缝一体设计，几何镂空露出腰部和背部，银色金属扣件装饰，透明PVC高跟鞋",
+    "scene": "Scene: 极简主义T台（minimize-runway），白色纯净背景，无多余装饰，建筑感线条空间分割",
+    "lighting": "Lighting: 柔光箱高调（soft-editorial-box），均匀明亮的专业影棚灯光，中性色温5500K",
+    "camera": "Camera: Hasselblad X1D II，50mm F2.8，全身构图极简背景，SIUF官方构图品牌感",
+    "quality": "Material: 液态金属面料（liquid-metallic），银色镜面反光效果如流动水银，角度变化产生银蓝紫色彩偏移，褶皱处锐利反光",
+    "commercial_use": "Mood: 编辑级概念化表达，高级时装大片的冷淡美学，极简空间中的未来感泳装，超越常规的视觉表达"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "14-future-swim.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "内衣",
+    "无多余装饰",
+    "无缝一体设计",
+    "时尚",
+    "白色纯净背景",
+    "秀场",
+    "透明PVC高跟鞋",
+    "银色金属扣件装饰"
+  ]
+}

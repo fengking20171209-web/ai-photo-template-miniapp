@@ -1,0 +1,53 @@
+{
+  "template_id": "siuf2026_25",
+  "category": "SIUF 2026 内衣秀",
+  "title": "25-outdoor-sport",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 大型体育场（stadium），跑道和草坪，体育场灯光塔，观众席灯光点缀",
+  "clothing": "Outfit: 户外运动装（sportswear-outdoor），黑色+荧光绿运动背心，弹力紧身裤，运动Bra外露，运动手表，专业运动鞋",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，运动健美风格，25-30岁阳光气质，椭圆脸型，面部线条清晰利落，168-172cm运动匀称身材，马甲线可见，小麦色健康肤色，运动后自然红润",
+    "face": "Hair: 高马尾（high-ponytail），运动中高马尾随动作弹跳摆动，发丝有动感，运动发带固定，活力十足",
+    "clothing": "Outfit: 户外运动装（sportswear-outdoor），黑色+荧光绿运动背心，弹力紧身裤，运动Bra外露，运动手表，专业运动鞋",
+    "scene": "Scene: 大型体育场（stadium），跑道和草坪，体育场灯光塔，观众席灯光点缀",
+    "lighting": "Lighting: 秀场追光灯（runway-spotlight），体育场灯光塔照射，模拟户外自然光",
+    "camera": "Camera: Nikon Z9，35mm全身，F2.8，低机位运动感构图",
+    "quality": "Material: 湿感反光面料（wet-reflective），运动后汗感的水面反射效果，速干面料微光泽",
+    "commercial_use": "Mood: 活力四射，运动户外的力量美学，阳光健康的生命力，运动精神的自信飒爽"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "25-outdoor-sport.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "专业运动鞋",
+    "体育场灯光塔",
+    "内衣",
+    "弹力紧身裤",
+    "时尚",
+    "秀场",
+    "观众席灯光点缀",
+    "跑道和草坪",
+    "运动Bra外露",
+    "运动手表"
+  ]
+}

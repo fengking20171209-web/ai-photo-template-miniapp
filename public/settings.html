@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>模型管理 · 写真工坊 Studio</title>
+  <style>
+    :root{
+      --bg:#0c0b10; --bg-2:#131119; --panel:#17151f; --panel-2:#1d1a26;
+      --border:#2a2733; --border-soft:#221f2b; --text:#ece9f3; --text-2:#a7a2b6; --text-3:#6f6a7e;
+      --accent:#8b5cf6; --accent-grad:linear-gradient(135deg,#8b5cf6,#6366f1);
+      --ok:#22c55e; --danger:#ef4444; --radius:14px; --radius-sm:10px;
+      --font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    }
+    *{box-sizing:border-box;}
+    html,body{margin:0;height:100%;}
+    body{font-family:var(--font);background:radial-gradient(1000px 500px at 75% -10%,rgba(139,92,246,.10),transparent 60%),var(--bg);color:var(--text);font-size:14px;}
+    .hidden{display:none !important;}
+    button{font-family:inherit;cursor:pointer;}
+    ::-webkit-scrollbar{width:10px;height:10px;}
+    ::-webkit-scrollbar-thumb{background:var(--border);border-radius:8px;}
+
+    .topbar{height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;border-bottom:1px solid var(--border-soft);background:rgba(20,18,28,.7);backdrop-filter:blur(12px);position:sticky;top:0;z-index:10;}
+    .topbar .crumb{font-size:13px;color:var(--text-2);}
+    .topbar .crumb b{color:var(--text);}
+    .back{color:var(--accent);text-decoration:none;font-size:13px;display:inline-flex;align-items:center;gap:6px;}
+
+    .page{max-width:1080px;margin:0 auto;padding:22px 22px 96px;}
+    .page-head h1{font-size:20px;margin:6px 0 4px;}
+    .page-head p{margin:0;color:var(--text-3);font-size:13px;}
+
+    .layout{display:grid;grid-template-columns:280px minmax(0,1fr);gap:18px;margin-top:18px;}
+
+    /* 模型列表 */
+    .list-pane{display:flex;flex-direction:column;gap:10px;}
+    .list-title{font-size:13px;color:var(--text-2);font-weight:600;padding:0 2px;}
+    .model-card{display:flex;align-items:center;gap:10px;padding:13px 14px;border-radius:var(--radius-sm);background:var(--panel);border:1px solid var(--border-soft);transition:.18s;text-align:left;width:100%;color:var(--text);}
+    .model-card:hover{border-color:var(--border);}
+    .model-card.active{border-color:var(--accent);box-shadow:0 0 0 2px rgba(139,92,246,.35);background:var(--panel-2);}
+    .model-ico{width:34px;height:34px;border-radius:9px;background:var(--panel-2);display:flex;align-items:center;justify-content:center;font-size:16px;flex:0 0 auto;border:1px solid var(--border-soft);}
+    .model-meta{min-width:0;flex:1;}
+    .model-name{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+    .model-status{font-size:11px;display:flex;align-items:center;gap:5px;margin-top:3px;color:var(--text-3);}
+    .dot{width:7px;height:7px;border-radius:50%;background:var(--text-3);}
+    .dot.on{background:var(--ok);box-shadow:0 0 6px var(--ok);}
+    .dot.off{background:var(--danger);}
+
+    /* 详情 */
+    .detail-pane{background:var(--panel);border:1px solid var(--border-soft);border-radius:var(--radius);padding:0;display:flex;flex-direction:column;min-height:300px;}
+    .detail-head{display:flex;align-items:center;justify-content:space-between;padding:18px 20px;border-bottom:1px solid var(--border-soft);}
+    .detail-title{display:flex;align-items:center;gap:10px;font-size:16px;font-weight:700;}
+    .badge{font-size:11px;padding:3px 9px;border-radius:999px;background:rgba(34,197,94,.15);color:var(--ok);}
+    .badge.off{background:rgba(239,68,68,.15);color:var(--danger);}
+    .detail-head-actions{display:flex;gap:8px;align-items:center;}
+    .btn{display:inline-flex;align-items:center;gap:6px;border-radius:8px;padding:7px 13px;font-size:13px;border:1px solid var(--border);background:var(--panel-2);color:var(--text-2);transition:.2s;}
+    .btn:hover{color:var(--text);border-color:var(--accent);}
+    .btn-danger{color:#f4a6a6;border-color:#5a2b2b;}
+    .btn-danger:hover{color:#fff;background:var(--danger);border-color:var(--danger);}
+
+    .detail-body{padding:20px;display:flex;flex-direction:column;gap:22px;}
+    .section-title{font-size:13px;font-weight:700;color:var(--text-2);display:flex;align-items:center;justify-content:space-between;}
+    .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+    .field{display:flex;flex-direction:column;gap:6px;}
+    .field label{font-size:12px;color:var(--text-3);}
+    input[type=text],input[type=password],input[type=number],select{
+      width:100%;background:var(--panel-2);border:1px solid var(--border);color:var(--text);
+      border-radius:var(--radius-sm);padding:10px 12px;font-size:13px;outline:none;transition:.2s;
+    }
+    input:focus,select:focus{border-color:var(--accent);}
+    .key-row{display:flex;gap:8px;}
+    .key-row input{flex:1;}
+    .key-hint{font-size:11px;color:var(--text-3);}
+
+    /* toggle */
+    .toggle{position:relative;width:42px;height:24px;flex:0 0 auto;}
+    .toggle input{opacity:0;width:0;height:0;}
+    .toggle .track{position:absolute;inset:0;background:var(--border);border-radius:999px;transition:.2s;}
+    .toggle .track::before{content:"";position:absolute;width:18px;height:18px;border-radius:50%;background:#fff;top:3px;left:3px;transition:.2s;}
+    .toggle input:checked + .track{background:var(--accent);}
+    .toggle input:checked + .track::before{transform:translateX(18px);}
+    .enable-row{display:flex;align-items:center;gap:10px;}
+
+    .caps{display:flex;gap:6px;flex-wrap:wrap;}
+    .cap{font-size:11px;padding:3px 9px;border-radius:999px;background:var(--panel-2);border:1px solid var(--border-soft);color:var(--text-2);}
+
+    .test-result{font-size:12px;color:var(--text-3);margin-top:6px;}
+
+    .global-card{margin-top:18px;background:var(--panel);border:1px solid var(--border-soft);border-radius:var(--radius);padding:20px;}
+    .global-card h2{font-size:15px;margin:0 0 14px;}
+    .slider-row{display:flex;align-items:center;gap:10px;}
+    input[type=range]{flex:1;accent-color:var(--accent);}
+
+    .toolbar{position:fixed;left:0;right:0;bottom:0;background:rgba(20,18,28,.92);backdrop-filter:blur(10px);border-top:1px solid var(--border-soft);padding:12px 22px;display:flex;justify-content:flex-end;gap:12px;z-index:20;}
+    .btn-primary{background:var(--accent-grad);color:#fff;border:none;border-radius:var(--radius-sm);padding:10px 22px;font-size:14px;font-weight:700;box-shadow:0 6px 18px rgba(139,92,246,.3);}
+    .btn-ghost{background:var(--panel-2);border:1px solid var(--border);color:var(--text-2);border-radius:var(--radius-sm);padding:10px 18px;}
+    .toast{position:fixed;top:18px;left:50%;transform:translateX(-50%);background:var(--panel-2);border:1px solid var(--border);color:var(--text);padding:10px 18px;border-radius:10px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:50;}
+    .toast.show{opacity:1;}
+
+    @media (max-width:820px){ .layout{grid-template-columns:1fr;} .grid2{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="crumb">模型管理 <span style="color:var(--text-3)">/</span> <b>模型配置与优化</b></div>
+    <a class="back" href="/">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+      返回工坊
+    </a>
+  </header>
+
+  <div class="page">
+    <div class="page-head">
+      <h1>模型管理</h1>
+      <p>配置图像生成模型的连接信息与默认生成参数。API Key 仅保存在本地服务端，留空则沿用 .env 配置。</p>
+    </div>
+
+    <div class="layout">
+      <!-- 左：模型列表 -->
+      <aside class="list-pane">
+        <div class="list-title">模型列表</div>
+        <div id="modelList"></div>
+      </aside>
+
+      <!-- 右：模型详情 -->
+      <section class="detail-pane" id="detailPane">
+        <div class="detail-head">
+          <div class="detail-title">
+            <span id="detailIco" class="model-ico">⚙️</span>
+            <span id="detailName">未选择</span>
+            <span class="badge" id="detailBadge">已启用</span>
+          </div>
+          <div class="detail-head-actions">
+            <button class="btn" id="testBtn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+              测试连接
+            </button>
+          </div>
+        </div>
+        <div class="detail-body">
+          <div>
+            <div class="section-title">
+              <span>基础配置</span>
+              <span class="enable-row">
+                <small style="font-size:12px;color:var(--text-3)">启用</small>
+                <label class="toggle"><input type="checkbox" id="f_enabled"><span class="track"></span></label>
+              </span>
+            </div>
+            <div class="grid2" style="margin-top:14px;">
+              <div class="field"><label>模型名称（显示名）</label><input type="text" id="f_name" /></div>
+              <div class="field"><label>模型 ID（实际调用）</label><input type="text" id="f_model" placeholder="如 agnes-image-2.1-flash" /></div>
+            </div>
+            <div class="field" style="margin-top:14px;"><label>API Base URL</label><input type="text" id="f_base_url" placeholder="https://..." /></div>
+            <div class="field" style="margin-top:14px;">
+              <label>API Key</label>
+              <div class="key-row">
+                <input type="password" id="f_api_key" placeholder="留空保持不变" autocomplete="new-password" />
+                <button class="btn" id="toggleKeyBtn" title="显示/隐藏">
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                </button>
+              </div>
+              <div class="key-hint" id="keyHint">当前：—</div>
+            </div>
+            <div class="field" style="margin-top:14px;">
+              <label>能力</label>
+              <div class="caps" id="f_caps"></div>
+            </div>
+            <div class="test-result hidden" id="testResult"></div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- 全局生成默认值 -->
+    <div class="global-card">
+      <h2>默认生成参数（全局）</h2>
+      <div class="grid2">
+        <div class="field">
+          <label>默认尺寸 / 比例（size）</label>
+          <select id="gen_size">
+            <option value="">跟随模板（通用）</option>
+            <optgroup label="商汤 SenseNova · 高清 ~4MP">
+              <option value="2048x2048">2048×2048 · 1:1（SenseNova）</option>
+              <option value="1824x2272">1824×2272 · 3:4（SenseNova）</option>
+              <option value="1664x2496">1664×2496 · 2:3（SenseNova）</option>
+              <option value="2272x1824">2272×1824 · 4:3（SenseNova）</option>
+              <option value="1536x2752">1536×2752 · 9:16（SenseNova）</option>
+              <option value="2752x1536">2752×1536 · 16:9（SenseNova）</option>
+            </optgroup>
+            <optgroup label="Agnes · 灵活 ~1-2MP">
+              <option value="1024x1024">1024×1024 · 1:1（Agnes）</option>
+              <option value="1024x1365">1024×1365 · 3:4（Agnes）</option>
+              <option value="1024x1536">1024×1536 · 2:3（Agnes）</option>
+              <option value="1365x1024">1365×1024 · 4:3（Agnes）</option>
+              <option value="1536x1024">1536×1024 · 3:2（Agnes）</option>
+              <option value="768x1365">768×1365 · 9:16（Agnes）</option>
+              <option value="1365x768">1365×768 · 16:9（Agnes）</option>
+            </optgroup>
+          </select>
+        </div>
+        <div class="field"><label>生成数量（n）</label><input type="number" id="gen_n" min="1" max="4" value="1" /></div>
+      </div>
+      <div class="field" style="margin-top:14px;">
+        <label>温度（temperature）· <span id="tempVal">0.8</span></label>
+        <div class="slider-row"><input type="range" id="gen_temperature" min="0" max="1" step="0.05" value="0.8" /></div>
+        <div class="key-hint">较低更稳定，较高更有创意（用于助手/提示词优化）</div>
+      </div>
+      <div class="field" style="margin-top:14px;"><label>最大 Token 数</label><input type="number" id="gen_max_tokens" value="1024" /></div>
+    </div>
+  </div>
+
+  <div class="toolbar">
+    <button class="btn-ghost" id="reloadBtn">重新载入</button>
+    <button class="btn-primary" id="saveBtn">保存配置</button>
+  </div>
+  <div class="toast" id="toast"></div>
+
+  <script src="settings.js"></script>
+</body>
+</html>

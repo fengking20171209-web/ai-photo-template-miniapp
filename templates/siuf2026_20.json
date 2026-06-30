@@ -1,0 +1,53 @@
+{
+  "template_id": "siuf2026_20",
+  "category": "SIUF 2026 内衣秀",
+  "title": "20-metro-chic",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 城市天台（city-rooftop），天际线全景背景，玻璃幕墙反射日光，黄昏天空",
+  "clothing": "Outfit: 几何赛博内衣套装（cyberwear-geometric），建筑感几何剪裁内衣，哑光银+黑色拼接，透明PVC面板，几何线条分割身体，银色建筑感高跟鞋",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，国际超模风格，25-30岁冷艳气质，长脸偏方，颧骨高挺，175-180cm骨感修长身材，冷白皮，锁骨突出颈部修长，无表情高级脸",
+    "face": "Hair: 低盘发（low-bun），低位置盘发干练利落无碎发，展现颈部和下颌线条，知性与力量感并存",
+    "clothing": "Outfit: 几何赛博内衣套装（cyberwear-geometric），建筑感几何剪裁内衣，哑光银+黑色拼接，透明PVC面板，几何线条分割身体，银色建筑感高跟鞋",
+    "scene": "Scene: 城市天台（city-rooftop），天际线全景背景，玻璃幕墙反射日光，黄昏天空",
+    "lighting": "Lighting: 黄金时刻（golden-hour）+ 电影钨丝灯（cinematic-tungsten），日落侧光照亮面部和身体，城市灯光开始亮起",
+    "camera": "Camera: Sony A7R V，35mm全身，F2.8，城市天际线作为背景纵深",
+    "quality": "Material: 液态金属面料（liquid-metallic）搭配亮面乳胶（latex-gloss），哑光银金属面料与黑色乳胶拼接，建筑感材质组合",
+    "commercial_use": "Mood: 自信都市，摩登都市的时尚力量，建筑感服装与城市天际线的呼应，都市女性的独立自信"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "20-metro-chic.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "内衣",
+    "几何线条分割身体",
+    "哑光银+黑色拼接",
+    "天际线全景背景",
+    "时尚",
+    "玻璃幕墙反射日光",
+    "秀场",
+    "透明PVC面板",
+    "银色建筑感高跟鞋",
+    "黄昏天空"
+  ]
+}

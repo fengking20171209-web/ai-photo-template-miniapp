@@ -1,0 +1,36 @@
+﻿{
+    "task_id":  "test_product_poster",
+    "status":  "completed",
+    "template":  {
+                     "template_id":  "product_poster",
+                     "category":  "产品海报",
+                     "title":  "高级美妆产品海报",
+                     "ratio":  "4:5",
+                     "style":  "商业广告海报"
+                 },
+    "image_request":  {
+                          "provider":  "mock",
+                          "dry_run":  true,
+                          "request_body":  {
+                                               "prompt":  "銆愭ā鏉垮悕绉般€?高级美妆产品海报\n\n銆愬垎绫汇€?产品海报\n\n銆愮敾骞呫€?4:5\n\n銆愰鏍笺€?商业广告海报\n\n銆愮敓鎴愮洰鏍囥€?保留用户真实五官的商业产品海报模特\n\n銆愯劯閮ㄤ繚鐪熴€?保持用户身份特征，妆容自然精致，不夸张\n\n銆愭湇瑁呴€犲瀷銆?简洁高级服装，颜色与产品包装协调\n\n銆愬満鏅幆澧冦€?美妆产品位于前景陈列台，背景干净，留出标题空间\n\n銆愬厜褰辨皼鍥淬€?商业棚拍柔光，产品高光清晰，人物面部自然\n\n銆愰暅澶存瀯鍥俱€?半身模特与产品同框，4:5竖版海报构图\n\n銆愮敾璐ㄨ姹傘€?广告级细节，干净排版，商业可用\n\n銆愬晢涓氱敤閫斻€?适合直播电商封面、商品主图和品牌社媒海报\n\n銆愬畨鍏ㄤ笌鍝佽川瑕佹眰銆?淇濈暀鐢ㄦ埛鐪熷疄浜斿畼銆佽劯鍨嬨€佽偆鑹诧紝涓嶈杩囧害纾ㄧ毊锛屼笉瑕佷綆淇楋紝涓嶈瑁搁湶锛屼笉瑕佺敓鎴愬じ寮犺韩浣撴瘮渚嬶紝鏈嶈瀹屾暣寰椾綋锛屾暣浣撻珮绾с€佸共鍑€銆佸晢涓氬彲鐢ㄣ€?\n銆愯礋闈㈡彁绀恒€?低俗营销, 裸露, 杂乱背景, 廉价广告, 错误文字, 变形产品",
+                                               "negative_prompt":  "低俗营销, 裸露, 杂乱背景, 廉价广告, 错误文字, 变形产品",
+                                               "ratio":  "4:5",
+                                               "quality":  "high",
+                                               "face_strength":  0.74,
+                                               "output_count":  1
+                                           }
+                      },
+    "image_response":  {
+                           "provider_task_id":  "mock_product_poster",
+                           "image_urls":  [
+
+                                          ],
+                           "raw":  {
+                                       "mode":  "mock",
+                                       "message":  "No real image API was called."
+                                   }
+                       },
+    "errors":  [
+
+               ]
+}

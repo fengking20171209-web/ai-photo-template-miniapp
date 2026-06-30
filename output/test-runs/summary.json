@@ -1,0 +1,49 @@
+﻿{
+    "total":  6,
+    "passed":  6,
+    "failed":  0,
+    "results":  [
+                    {
+                        "file":  "ancient_diaochan.json",
+                        "template_id":  "ancient_diaochan",
+                        "status":  "completed",
+                        "errors":  0,
+                        "prompt_chars":  469
+                    },
+                    {
+                        "file":  "beauty_analysis.json",
+                        "template_id":  "beauty_analysis",
+                        "status":  "completed",
+                        "errors":  0,
+                        "prompt_chars":  416
+                    },
+                    {
+                        "file":  "career_flight_attendant.json",
+                        "template_id":  "career_flight_attendant",
+                        "status":  "completed",
+                        "errors":  0,
+                        "prompt_chars":  451
+                    },
+                    {
+                        "file":  "model_contest.json",
+                        "template_id":  "model_contest",
+                        "status":  "completed",
+                        "errors":  0,
+                        "prompt_chars":  461
+                    },
+                    {
+                        "file":  "noir_character_card.json",
+                        "template_id":  "noir_character_card",
+                        "status":  "completed",
+                        "errors":  0,
+                        "prompt_chars":  460
+                    },
+                    {
+                        "file":  "product_poster.json",
+                        "template_id":  "product_poster",
+                        "status":  "completed",
+                        "errors":  0,
+                        "prompt_chars":  459
+                    }
+                ]
+}

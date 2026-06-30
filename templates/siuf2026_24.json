@@ -1,0 +1,50 @@
+{
+  "template_id": "siuf2026_24",
+  "category": "SIUF 2026 内衣秀",
+  "title": "24-crystal-luxury",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 黑色影棚（black-studio），纯黑背景，低调照明突出水晶闪光",
+  "clothing": "Outfit: 水晶蕾丝内衣套装（lace-crystal），黑色蕾丝底布镶嵌Swarovski水晶，全身闪烁点点星光，高腰设计强调腰线，水晶吊坠项链配套",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，国际超模风格，25-30岁冷艳气质，长脸偏方，颧骨高挺，175-180cm骨感修长身材，冷白皮，锁骨突出，无表情高级脸，奢华冷艳",
+    "face": "Hair: 丸子头（bun-clean），高位置精致丸子头，无碎发干净利落，搭配钻石发饰，脖颈线条完全展现",
+    "clothing": "Outfit: 水晶蕾丝内衣套装（lace-crystal），黑色蕾丝底布镶嵌Swarovski水晶，全身闪烁点点星光，高腰设计强调腰线，水晶吊坠项链配套",
+    "scene": "Scene: 黑色影棚（black-studio），纯黑背景，低调照明突出水晶闪光",
+    "lighting": "Lighting: 秀场追光灯（runway-spotlight），顶光照亮水晶产生闪烁，侧面补光勾勒轮廓",
+    "camera": "Camera: Hasselblad X1D II，85mm F1.4，浅景深半身到全身，黑色背景聚焦水晶闪光",
+    "quality": "Material: 微距蕾丝刺绣面料（micro-lace）+ 珠光面料（pearlescent），蕾丝上水晶镶嵌的闪烁效果，珠光面料在灯光下呈现彩虹反光",
+    "commercial_use": "Mood: 奢华璀璨，黑天鹅般的极致奢华，水晶闪烁中的冷艳高贵，高级定制的极致美学"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "24-crystal-luxury.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "全身闪烁点点星光",
+    "内衣",
+    "时尚",
+    "水晶吊坠项链配套",
+    "秀场",
+    "纯黑背景",
+    "高腰设计强调腰线"
+  ]
+}

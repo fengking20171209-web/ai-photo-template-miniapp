@@ -1,0 +1,53 @@
+{
+  "template_id": "siuf2026_15",
+  "category": "SIUF 2026 内衣秀",
+  "title": "15-retro-hollywood",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 复古泳池场景（urban-night改造），好莱坞黄金时代风格的泳池边，夜景灯光映射水面，复古氛围",
+  "clothing": "Outfit: 黑色复古泳装（swimwear-black-vintage），黑色高腰比基尼，复古剪裁强调腰线，白色珍珠项链，红色唇膏作为配饰，黑色猫眼墨镜",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，轻熟知性风格，30-35岁杂志封面气质，鹅蛋脸偏长，面部线条柔和有层次，165-170cm优雅匀称身材，丰盈有度，自然偏白肤色，成熟有光泽，知性从容中带神秘感",
+    "face": "Hair: 法式卷发（french-curl），复古好莱坞式大卷发，深棕发色有光泽，刘海侧分优雅波浪，经典好莱坞黄金时代的发型美感",
+    "clothing": "Outfit: 黑色复古泳装（swimwear-black-vintage），黑色高腰比基尼，复古剪裁强调腰线，白色珍珠项链，红色唇膏作为配饰，黑色猫眼墨镜",
+    "scene": "Scene: 复古泳池场景（urban-night改造），好莱坞黄金时代风格的泳池边，夜景灯光映射水面，复古氛围",
+    "lighting": "Lighting: 电影暖色钨丝灯（cinematic-tungsten），好莱坞经典三点布光，伦勃朗三角光，暖黄2700K色温",
+    "camera": "85mm镜头，半身肖像构图",
+    "quality": "Material: 珠光面料（pearlescent），黑色泳装的珠光处理，复古好莱坞的柔光效果，面料在灯光下呈现微妙的彩虹反光",
+    "commercial_use": "Mood: 神秘复古，好莱坞黄金时代的优雅魅力，黑白电影的光影美学，复古泳装的经典诱惑，时光倒流的电影感"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "15-retro-hollywood.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "内衣",
+    "复古剪裁强调腰线",
+    "复古氛围",
+    "夜景灯光映射水面",
+    "时尚",
+    "白色珍珠项链",
+    "秀场",
+    "红色唇膏作为配饰",
+    "黑色猫眼墨镜",
+    "黑色高腰比基尼"
+  ]
+}

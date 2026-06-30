@@ -1,0 +1,30 @@
+{
+  "task_id": "ktdd3cd754666c",
+  "ok": false,
+  "returncode": 1,
+  "prompt": "回复一个单词: OK",
+  "command": [
+    "C:\\Users\\Aerc\\.kimi-code\\bin\\kimi.exe",
+    "-p",
+    "回复一个单词: OK",
+    "--output-format",
+    "text"
+  ],
+  "stdout": "D:\\a\\kimi-code\\kimi-code\\apps\\kimi-code\\dist-native\\intermediates\\main.cjs:120601\n\t\t\tif (error instanceof KaosShellNotFoundError) throw new KimiError(ErrorCodes.SHELL_GIT_BASH_NOT_FOUND, error.message);\n\t\t\t                                                   ^\n\nKimiError: Git Bash was not found on this Windows host. Install Git for Windows from https://gitforwindows.org/ or set KIMI_SHELL_PATH to a bash.exe. Checked: D:\\Program Files\\Git\\mingw64\\bin\\bash.exe, C:\\Program Files\\Git\\bin\\bash.exe, C:\\Program Files (x86)\\Git\\bin\\bash.exe, C:\\Users\\Aerc\\AppData\\Local\\Programs\\Git\\bin\\bash.exe.\n    at D:\\a\\kimi-code\\kimi-code\\apps\\kimi-code\\dist-native\\intermediates\\main.cjs:120601:55 {\n  code: 'shell.git_bash_not_found',\n  details: undefined,\n  cause: undefined\n}\n\nNode.js v24.15.0",
+  "stdout_lines": [
+    "D:\\a\\kimi-code\\kimi-code\\apps\\kimi-code\\dist-native\\intermediates\\main.cjs:120601",
+    "\t\t\tif (error instanceof KaosShellNotFoundError) throw new KimiError(ErrorCodes.SHELL_GIT_BASH_NOT_FOUND, error.message);",
+    "\t\t\t                                                   ^",
+    "",
+    "KimiError: Git Bash was not found on this Windows host. Install Git for Windows from https://gitforwindows.org/ or set KIMI_SHELL_PATH to a bash.exe. Checked: D:\\Program Files\\Git\\mingw64\\bin\\bash.exe, C:\\Program Files\\Git\\bin\\bash.exe, C:\\Program Files (x86)\\Git\\bin\\bash.exe, C:\\Users\\Aerc\\AppData\\Local\\Programs\\Git\\bin\\bash.exe.",
+    "    at D:\\a\\kimi-code\\kimi-code\\apps\\kimi-code\\dist-native\\intermediates\\main.cjs:120601:55 {",
+    "  code: 'shell.git_bash_not_found',",
+    "  details: undefined,",
+    "  cause: undefined",
+    "}",
+    "",
+    "Node.js v24.15.0"
+  ],
+  "result_file": "output\\kimi-tasks\\ktdd3cd754666c.json",
+  "log_file": "logs\\kimi-task-ktdd3cd754666c.log"
+}

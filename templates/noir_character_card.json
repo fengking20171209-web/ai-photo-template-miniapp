@@ -1,0 +1,40 @@
+{
+  "template_id": "noir_character_card",
+  "category": "漫画角色",
+  "title": "NOIR ANGELS 角色卡",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "80年代日漫 noir 角色设定卡",
+  "scene": "NEO CITY 雨夜霓虹背景",
+  "clothing": "黑色风衣或职业制服",
+  "prompt_blocks": {
+    "subject": "保留用户真实五官的 noir 漫画角色",
+    "face": "真实五官与半写实动漫风融合，保持身份识别度",
+    "clothing": "都市 noir 风格职业服装，黑色风衣，简洁配饰",
+    "scene": "雨夜都市，霓虹灯，玻璃反光",
+    "lighting": "青蓝霓虹，半脸阴影，电影感对比光",
+    "camera": "角色设定卡，正面、侧面、表情小图",
+    "quality": "高级漫画角色档案风格",
+    "commercial_use": "适合作为角色头像、IP设定卡和短视频封面"
+  },
+  "options": {
+    "quality": "high",
+    "face_strength": 0.68,
+    "output_count": 1
+  },
+  "negative_prompt": [
+    "低俗",
+    "过度性感",
+    "AI网红脸",
+    "幼态",
+    "画面脏乱"
+  ],
+  "tags": [
+    "80年代日漫 noir 角色设定卡",
+    "二次元",
+    "卡通",
+    "漫画",
+    "角色"
+  ]
+}

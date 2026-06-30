@@ -1,0 +1,42 @@
+﻿# COS 配置
+# 从 .env 加载实际的 SecretId / SecretKey / Region / Bucket
+
+region: ap-shanghai
+
+buckets:
+  ref: ai-fashion-ref-shanghai
+  gen: ai-fashion-gen-shanghai
+  doc: ai-fashion-doc-shanghai
+
+paths:
+  ref_base: ref/fashion
+  gen_base: gen
+  prompt_base: prompt
+  metadata_base: metadata/images
+  collections_base: metadata/collections
+
+thumbnail:
+  preview_width: 1600
+  preview_format: webp
+  thumb_width: 512
+  thumb_format: webp
+  tiny_width: 128
+  tiny_format: jpg
+
+lifecycle:
+  selected:
+    initial: STANDARD
+    day_30: STANDARD_IA
+    day_90: DEEP_ARCHIVE
+  raw:
+    initial: STANDARD
+    day_30: DEEP_ARCHIVE
+    day_90: DELETE
+  rejected:
+    initial: STANDARD
+    day_30: DELETE
+  reference:
+    initial: STANDARD
+    day_30: DEEP_ARCHIVE
+  metadata:
+    initial: STANDARD

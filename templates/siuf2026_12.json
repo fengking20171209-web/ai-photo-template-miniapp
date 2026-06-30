@@ -1,0 +1,54 @@
+{
+  "template_id": "siuf2026_12",
+  "category": "SIUF 2026 内衣秀",
+  "title": "12-black-secretary",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 都市夜景街头（urban-night），霓虹灯招牌闪烁，车流光轨，湿润路面反射灯光，城市天际线夜景",
+  "clothing": "Outfit: 黑色蕾丝内衣套装搭配黑色丝袜（lace-black+pantyhose），黑色蕾丝精致内衣，黑色透肉丝袜强调腿部线条，黑色尖头高跟鞋，黑色手拿包，银色耳钉",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，轻熟知性风格，30-35岁杂志封面气质，鹅蛋脸偏长，面部线条柔和有层次，眼型偏长，眼神锐利有深度，165-170cm优雅匀称身材，丰盈有度线条流畅，自然偏白肤色，成熟有光泽肌肤，锁骨明显，知性从容中带主导感",
+    "face": "Hair: 低盘发（low-bun），低位置盘发在后脑勺下方，盘发紧致干练，无碎发，显得强势有力，脖颈线条完全展现，深黑发色有光泽",
+    "clothing": "Outfit: 黑色蕾丝内衣套装搭配黑色丝袜（lace-black+pantyhose），黑色蕾丝精致内衣，黑色透肉丝袜强调腿部线条，黑色尖头高跟鞋，黑色手拿包，银色耳钉",
+    "scene": "Scene: 都市夜景街头（urban-night），霓虹灯招牌闪烁，车流光轨，湿润路面反射灯光，城市天际线夜景",
+    "lighting": "Lighting: 霓虹边缘光（neon-edge）+ 电影钨丝灯（cinematic-tungsten），城市霓虹灯提供彩色边缘光，暖色钨丝灯从侧面柔和照射",
+    "camera": "Camera: Sony A7R V，85mm F1.4，浅景深半身到全身过渡，都市夜景霓虹灯虚化成彩色光斑",
+    "quality": "Material: 微距蕾丝刺绣面料（micro-lace），黑色蕾丝花纹精致，丝袜的半透明光泽效果，透光与不透光的层次感，面料贴合身体曲线",
+    "commercial_use": "Mood: 主导强势，都市夜色中的御姐气场，不怒自威的掌控力，黑色丝袜的极致诱惑，都市丛林中的权力美学"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "12-black-secretary.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "内衣",
+    "城市天际线夜景",
+    "时尚",
+    "湿润路面反射灯光",
+    "秀场",
+    "车流光轨",
+    "银色耳钉",
+    "霓虹灯招牌闪烁",
+    "黑色尖头高跟鞋",
+    "黑色手拿包",
+    "黑色蕾丝精致内衣"
+  ]
+}

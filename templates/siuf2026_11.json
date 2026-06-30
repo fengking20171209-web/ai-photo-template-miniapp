@@ -1,0 +1,52 @@
+{
+  "template_id": "siuf2026_11",
+  "category": "SIUF 2026 内衣秀",
+  "title": "11-french-silk",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 高端酒店套房（luxury-hotel），深色木质和金色装饰，落地窗外城市夜景，水晶吊灯暖光，奢华私密空间",
+  "clothing": "Outfit: 奶油色真丝睡袍套装（silk-cream），象牙白真丝长睡袍半开，内搭同色系蕾丝吊带内衣，真丝缎面质感，珍珠纽扣装饰，奶油色丝绸拖鞋",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，轻熟知性风格，30-35岁杂志封面气质，鹅蛋脸偏长，面部线条柔和有层次，眼型偏长，眼神温和有深度，165-170cm优雅匀称身材，丰盈有度线条流畅，自然偏白肤色，肌肤成熟有光泽，锁骨明显不夸张，颈部修长，知性从容高级脸",
+    "face": "Hair: 法式卷发（french-curl），法式中长卷发弹性卷度有层次，深棕焦糖色发色，刘海自然偏分法式空气感，浪漫优雅法国女人的随性精致",
+    "clothing": "Outfit: 奶油色真丝睡袍套装（silk-cream），象牙白真丝长睡袍半开，内搭同色系蕾丝吊带内衣，真丝缎面质感，珍珠纽扣装饰，奶油色丝绸拖鞋",
+    "scene": "Scene: 高端酒店套房（luxury-hotel），深色木质和金色装饰，落地窗外城市夜景，水晶吊灯暖光，奢华私密空间",
+    "lighting": "Lighting: 高端酒店氛围灯（luxury-hotel-ambient），暖色钨丝灯主光从侧面照射，烛光色温2700K，水晶吊灯散射暖光，私密温暖氛围",
+    "camera": "Camera: Leica SL2-S，85mm F1.4，浅景深半身构图，聚焦回眸表情和丝绸质感，酒店暖光虚化成光斑",
+    "quality": "Material: 半透明真丝面料（semi-silk），奶油色丝绸柔和透光效果，逆光时面料边缘发暖色光晕，珍珠般柔和光泽，褶皱柔和圆润如流水",
+    "commercial_use": "Mood: 奢华从容，法式浪漫的极致优雅，成熟女性的知性魅力，丝绸般的温柔与力量，高级酒店的私密奢华"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "11-french-silk.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "内衣",
+    "奢华私密空间",
+    "奶油色丝绸拖鞋",
+    "时尚",
+    "水晶吊灯暖光",
+    "珍珠纽扣装饰",
+    "真丝缎面质感",
+    "秀场",
+    "落地窗外城市夜景"
+  ]
+}

@@ -1,0 +1,56 @@
+node_modules
+.env
+.env.sub
+*.csv
+*secret*
+*token*
+.env*.backup
+onedrive_*.json
+od_*.json
+od_*.txt
+*.db
+output/*.png
+output/*.jpg
+output/*.jpeg
+output/*.webp
+output/tasks/
+output/generated/
+uploads/*
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Embedded git repos
+references/awesome-gpt-image*
+*.log
+
+# Personal environment scripts
+.kimi-code/
+scripts/create_desktop_shortcut.py
+start-*.bat
+kimi-auto-safe.bat
+
+/.crew/
+/.crew
+!.crew/artifacts/
+!.crew/graphs/
+!.crew/artifacts/.gitkeep
+!.crew/graphs/.gitkeep
+
+# Secrets & credential helper scripts (never commit)
+.env.openai
+.env.*
+!.env.example
+debug_key.py
+find_key*.py
+config/models.json
+
+# SQLite WAL side files
+*.db-shm
+*.db-wal
+
+# Scratch / temp files
+msg.txt
+commit_msg*.txt
+logs/*.json

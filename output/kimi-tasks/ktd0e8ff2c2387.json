@@ -1,0 +1,21 @@
+{
+  "task_id": "ktd0e8ff2c2387",
+  "ok": false,
+  "returncode": 1,
+  "prompt": "请用一句话回答：1+1=?",
+  "command": [
+    "C:\\Users\\Aerc\\.kimi-code\\bin\\kimi.exe",
+    "-p",
+    "请用一句话回答：1+1=?",
+    "-y",
+    "--auto",
+    "--output-format",
+    "text"
+  ],
+  "stdout": "error: Cannot combine --prompt with --yolo.",
+  "stdout_lines": [
+    "error: Cannot combine --prompt with --yolo."
+  ],
+  "result_file": "D:\\Projects\\ai-photo-template-miniapp\\output\\kimi-tasks\\ktd0e8ff2c2387.json",
+  "log_file": "D:\\Projects\\ai-photo-template-miniapp\\logs\\kimi-task-ktd0e8ff2c2387.log"
+}

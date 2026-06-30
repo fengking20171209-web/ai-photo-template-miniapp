@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="512" viewBox="0 0 768 512">
+  <rect width="100%" height="100%" fill="#f0f0f0"/>
+  <rect x="10%" y="10%" width="80%" height="80%" fill="none" stroke="#ccc" stroke-width="2" stroke-dasharray="10,5"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#888">Mock Image</text>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#aaa">768 × 512</text>
+</svg>

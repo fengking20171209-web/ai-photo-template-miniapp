@@ -1,0 +1,11002 @@
+[
+ {
+  "id": "bg_001",
+  "name": "豪华酒店套房 · 黄昏暖光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_002",
+  "name": "豪华酒店套房 · 清晨柔光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_003",
+  "name": "豪华酒店套房 · 正午自然光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_004",
+  "name": "豪华酒店套房 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_005",
+  "name": "豪华酒店套房 · 室内暖光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_006",
+  "name": "豪华酒店套房 · 冷调蓝光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_007",
+  "name": "豪华酒店套房 · 电影感打光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_008",
+  "name": "豪华酒店套房 · 逆光剪影",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "luxury hotel suite",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_009",
+  "name": "总统套房 · 黄昏暖光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_010",
+  "name": "总统套房 · 清晨柔光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_011",
+  "name": "总统套房 · 正午自然光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_012",
+  "name": "总统套房 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_013",
+  "name": "总统套房 · 室内暖光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_014",
+  "name": "总统套房 · 冷调蓝光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_015",
+  "name": "总统套房 · 电影感打光",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_016",
+  "name": "总统套房 · 逆光剪影",
+  "category": [
+   "室内",
+   "酒店"
+  ],
+  "space": [
+   "酒店"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "presidential suite",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_017",
+  "name": "现代卧室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_018",
+  "name": "现代卧室 · 清晨柔光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_019",
+  "name": "现代卧室 · 正午自然光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_020",
+  "name": "现代卧室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_021",
+  "name": "现代卧室 · 室内暖光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_022",
+  "name": "现代卧室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_023",
+  "name": "现代卧室 · 电影感打光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_024",
+  "name": "现代卧室 · 逆光剪影",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "modern bedroom",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_025",
+  "name": "北欧风卧室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_026",
+  "name": "北欧风卧室 · 清晨柔光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_027",
+  "name": "北欧风卧室 · 正午自然光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_028",
+  "name": "北欧风卧室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_029",
+  "name": "北欧风卧室 · 室内暖光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_030",
+  "name": "北欧风卧室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_031",
+  "name": "北欧风卧室 · 电影感打光",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_032",
+  "name": "北欧风卧室 · 逆光剪影",
+  "category": [
+   "室内",
+   "卧室"
+  ],
+  "space": [
+   "卧室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "scandinavian bedroom",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_033",
+  "name": "大理石浴室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_034",
+  "name": "大理石浴室 · 清晨柔光",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_035",
+  "name": "大理石浴室 · 正午自然光",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_036",
+  "name": "大理石浴室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_037",
+  "name": "大理石浴室 · 室内暖光",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_038",
+  "name": "大理石浴室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_039",
+  "name": "大理石浴室 · 电影感打光",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_040",
+  "name": "大理石浴室 · 逆光剪影",
+  "category": [
+   "室内",
+   "浴室"
+  ],
+  "space": [
+   "浴室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "marble bathroom",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_041",
+  "name": "简约客厅 · 黄昏暖光",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_042",
+  "name": "简约客厅 · 清晨柔光",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_043",
+  "name": "简约客厅 · 正午自然光",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_044",
+  "name": "简约客厅 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_045",
+  "name": "简约客厅 · 室内暖光",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_046",
+  "name": "简约客厅 · 冷调蓝光",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_047",
+  "name": "简约客厅 · 电影感打光",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_048",
+  "name": "简约客厅 · 逆光剪影",
+  "category": [
+   "室内",
+   "客厅"
+  ],
+  "space": [
+   "客厅"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "minimalist living room",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_049",
+  "name": "复古书房 · 黄昏暖光",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_050",
+  "name": "复古书房 · 清晨柔光",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_051",
+  "name": "复古书房 · 正午自然光",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_052",
+  "name": "复古书房 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_053",
+  "name": "复古书房 · 室内暖光",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_054",
+  "name": "复古书房 · 冷调蓝光",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_055",
+  "name": "复古书房 · 电影感打光",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_056",
+  "name": "复古书房 · 逆光剪影",
+  "category": [
+   "室内",
+   "书房"
+  ],
+  "space": [
+   "书房"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "vintage study room",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_057",
+  "name": "开放式厨房 · 黄昏暖光",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_058",
+  "name": "开放式厨房 · 清晨柔光",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_059",
+  "name": "开放式厨房 · 正午自然光",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_060",
+  "name": "开放式厨房 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_061",
+  "name": "开放式厨房 · 室内暖光",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_062",
+  "name": "开放式厨房 · 冷调蓝光",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_063",
+  "name": "开放式厨房 · 电影感打光",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_064",
+  "name": "开放式厨房 · 逆光剪影",
+  "category": [
+   "室内",
+   "厨房"
+  ],
+  "space": [
+   "厨房"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "open kitchen",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_065",
+  "name": "工业风咖啡馆 · 黄昏暖光",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_066",
+  "name": "工业风咖啡馆 · 清晨柔光",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_067",
+  "name": "工业风咖啡馆 · 正午自然光",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_068",
+  "name": "工业风咖啡馆 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_069",
+  "name": "工业风咖啡馆 · 室内暖光",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_070",
+  "name": "工业风咖啡馆 · 冷调蓝光",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_071",
+  "name": "工业风咖啡馆 · 电影感打光",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_072",
+  "name": "工业风咖啡馆 · 逆光剪影",
+  "category": [
+   "室内",
+   "咖啡馆"
+  ],
+  "space": [
+   "咖啡馆"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "industrial cafe interior",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_073",
+  "name": "独立书店 · 黄昏暖光",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_074",
+  "name": "独立书店 · 清晨柔光",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_075",
+  "name": "独立书店 · 正午自然光",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_076",
+  "name": "独立书店 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_077",
+  "name": "独立书店 · 室内暖光",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_078",
+  "name": "独立书店 · 冷调蓝光",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_079",
+  "name": "独立书店 · 电影感打光",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_080",
+  "name": "独立书店 · 逆光剪影",
+  "category": [
+   "室内",
+   "书店"
+  ],
+  "space": [
+   "书店"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "cozy bookstore",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_081",
+  "name": "现代美术馆 · 黄昏暖光",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_082",
+  "name": "现代美术馆 · 清晨柔光",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_083",
+  "name": "现代美术馆 · 正午自然光",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_084",
+  "name": "现代美术馆 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_085",
+  "name": "现代美术馆 · 室内暖光",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_086",
+  "name": "现代美术馆 · 冷调蓝光",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_087",
+  "name": "现代美术馆 · 电影感打光",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_088",
+  "name": "现代美术馆 · 逆光剪影",
+  "category": [
+   "室内",
+   "美术馆"
+  ],
+  "space": [
+   "美术馆"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "modern art gallery",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_089",
+  "name": "白色无缝影棚 · 黄昏暖光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_090",
+  "name": "白色无缝影棚 · 清晨柔光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_091",
+  "name": "白色无缝影棚 · 正午自然光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_092",
+  "name": "白色无缝影棚 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_093",
+  "name": "白色无缝影棚 · 室内暖光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_094",
+  "name": "白色无缝影棚 · 冷调蓝光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_095",
+  "name": "白色无缝影棚 · 电影感打光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_096",
+  "name": "白色无缝影棚 · 逆光剪影",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "white cyclorama studio",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_097",
+  "name": "灰调摄影影棚 · 黄昏暖光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_098",
+  "name": "灰调摄影影棚 · 清晨柔光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_099",
+  "name": "灰调摄影影棚 · 正午自然光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_100",
+  "name": "灰调摄影影棚 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_101",
+  "name": "灰调摄影影棚 · 室内暖光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_102",
+  "name": "灰调摄影影棚 · 冷调蓝光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_103",
+  "name": "灰调摄影影棚 · 电影感打光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_104",
+  "name": "灰调摄影影棚 · 逆光剪影",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "grey photography studio",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_105",
+  "name": "暗色调影棚 · 黄昏暖光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_106",
+  "name": "暗色调影棚 · 清晨柔光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_107",
+  "name": "暗色调影棚 · 正午自然光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_108",
+  "name": "暗色调影棚 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_109",
+  "name": "暗色调影棚 · 室内暖光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_110",
+  "name": "暗色调影棚 · 冷调蓝光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_111",
+  "name": "暗色调影棚 · 电影感打光",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_112",
+  "name": "暗色调影棚 · 逆光剪影",
+  "category": [
+   "室内",
+   "影棚"
+  ],
+  "space": [
+   "影棚"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "dark moody studio",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_113",
+  "name": "现代办公室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_114",
+  "name": "现代办公室 · 清晨柔光",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_115",
+  "name": "现代办公室 · 正午自然光",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_116",
+  "name": "现代办公室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_117",
+  "name": "现代办公室 · 室内暖光",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_118",
+  "name": "现代办公室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_119",
+  "name": "现代办公室 · 电影感打光",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_120",
+  "name": "现代办公室 · 逆光剪影",
+  "category": [
+   "室内",
+   "办公室"
+  ],
+  "space": [
+   "办公室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "modern office interior",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_121",
+  "name": "健身房 · 黄昏暖光",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_122",
+  "name": "健身房 · 清晨柔光",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_123",
+  "name": "健身房 · 正午自然光",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_124",
+  "name": "健身房 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_125",
+  "name": "健身房 · 室内暖光",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_126",
+  "name": "健身房 · 冷调蓝光",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_127",
+  "name": "健身房 · 电影感打光",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_128",
+  "name": "健身房 · 逆光剪影",
+  "category": [
+   "室内",
+   "健身房"
+  ],
+  "space": [
+   "健身房"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "modern gym interior",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_129",
+  "name": "舞蹈教室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_130",
+  "name": "舞蹈教室 · 清晨柔光",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_131",
+  "name": "舞蹈教室 · 正午自然光",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_132",
+  "name": "舞蹈教室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_133",
+  "name": "舞蹈教室 · 室内暖光",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_134",
+  "name": "舞蹈教室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_135",
+  "name": "舞蹈教室 · 电影感打光",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_136",
+  "name": "舞蹈教室 · 逆光剪影",
+  "category": [
+   "室内",
+   "舞蹈室"
+  ],
+  "space": [
+   "舞蹈室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "dance studio with mirrors",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_137",
+  "name": "鸡尾酒吧 · 黄昏暖光",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_138",
+  "name": "鸡尾酒吧 · 清晨柔光",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_139",
+  "name": "鸡尾酒吧 · 正午自然光",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_140",
+  "name": "鸡尾酒吧 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_141",
+  "name": "鸡尾酒吧 · 室内暖光",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_142",
+  "name": "鸡尾酒吧 · 冷调蓝光",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_143",
+  "name": "鸡尾酒吧 · 电影感打光",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_144",
+  "name": "鸡尾酒吧 · 逆光剪影",
+  "category": [
+   "室内",
+   "酒吧"
+  ],
+  "space": [
+   "酒吧"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "stylish cocktail bar",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_145",
+  "name": "高级餐厅 · 黄昏暖光",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_146",
+  "name": "高级餐厅 · 清晨柔光",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_147",
+  "name": "高级餐厅 · 正午自然光",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_148",
+  "name": "高级餐厅 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_149",
+  "name": "高级餐厅 · 室内暖光",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_150",
+  "name": "高级餐厅 · 冷调蓝光",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_151",
+  "name": "高级餐厅 · 电影感打光",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_152",
+  "name": "高级餐厅 · 逆光剪影",
+  "category": [
+   "室内",
+   "餐厅"
+  ],
+  "space": [
+   "餐厅"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "fine dining restaurant",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_153",
+  "name": "室内泳池 · 黄昏暖光",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_154",
+  "name": "室内泳池 · 清晨柔光",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_155",
+  "name": "室内泳池 · 正午自然光",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_156",
+  "name": "室内泳池 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_157",
+  "name": "室内泳池 · 室内暖光",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_158",
+  "name": "室内泳池 · 冷调蓝光",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_159",
+  "name": "室内泳池 · 电影感打光",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_160",
+  "name": "室内泳池 · 逆光剪影",
+  "category": [
+   "室内",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "indoor swimming pool",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_161",
+  "name": "玻璃温室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_162",
+  "name": "玻璃温室 · 清晨柔光",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_163",
+  "name": "玻璃温室 · 正午自然光",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_164",
+  "name": "玻璃温室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_165",
+  "name": "玻璃温室 · 室内暖光",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_166",
+  "name": "玻璃温室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_167",
+  "name": "玻璃温室 · 电影感打光",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_168",
+  "name": "玻璃温室 · 逆光剪影",
+  "category": [
+   "室内",
+   "温室"
+  ],
+  "space": [
+   "温室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "glass greenhouse",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_169",
+  "name": "宏伟图书馆 · 黄昏暖光",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_170",
+  "name": "宏伟图书馆 · 清晨柔光",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_171",
+  "name": "宏伟图书馆 · 正午自然光",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_172",
+  "name": "宏伟图书馆 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_173",
+  "name": "宏伟图书馆 · 室内暖光",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_174",
+  "name": "宏伟图书馆 · 冷调蓝光",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_175",
+  "name": "宏伟图书馆 · 电影感打光",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_176",
+  "name": "宏伟图书馆 · 逆光剪影",
+  "category": [
+   "室内",
+   "图书馆"
+  ],
+  "space": [
+   "图书馆"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "grand library hall",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_177",
+  "name": "复古唱片店 · 黄昏暖光",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_178",
+  "name": "复古唱片店 · 清晨柔光",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_179",
+  "name": "复古唱片店 · 正午自然光",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_180",
+  "name": "复古唱片店 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_181",
+  "name": "复古唱片店 · 室内暖光",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_182",
+  "name": "复古唱片店 · 冷调蓝光",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_183",
+  "name": "复古唱片店 · 电影感打光",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_184",
+  "name": "复古唱片店 · 逆光剪影",
+  "category": [
+   "室内",
+   "店铺"
+  ],
+  "space": [
+   "店铺"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "vintage record store",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_185",
+  "name": "loft 公寓 · 黄昏暖光",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_186",
+  "name": "loft 公寓 · 清晨柔光",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_187",
+  "name": "loft 公寓 · 正午自然光",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_188",
+  "name": "loft 公寓 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_189",
+  "name": "loft 公寓 · 室内暖光",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_190",
+  "name": "loft 公寓 · 冷调蓝光",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_191",
+  "name": "loft 公寓 · 电影感打光",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_192",
+  "name": "loft 公寓 · 逆光剪影",
+  "category": [
+   "室内",
+   "公寓"
+  ],
+  "space": [
+   "公寓"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "industrial loft apartment",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_193",
+  "name": "茶室 · 黄昏暖光",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_194",
+  "name": "茶室 · 清晨柔光",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_195",
+  "name": "茶室 · 正午自然光",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_196",
+  "name": "茶室 · 夜晚霓虹",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_197",
+  "name": "茶室 · 室内暖光",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_198",
+  "name": "茶室 · 冷调蓝光",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_199",
+  "name": "茶室 · 电影感打光",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_200",
+  "name": "茶室 · 逆光剪影",
+  "category": [
+   "室内",
+   "茶室"
+  ],
+  "space": [
+   "茶室"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "japanese tea room",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_201",
+  "name": "城市天台 · 黄昏暖光",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_202",
+  "name": "城市天台 · 清晨柔光",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_203",
+  "name": "城市天台 · 正午自然光",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_204",
+  "name": "城市天台 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_205",
+  "name": "城市天台 · 室内暖光",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_206",
+  "name": "城市天台 · 冷调蓝光",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_207",
+  "name": "城市天台 · 电影感打光",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_208",
+  "name": "城市天台 · 逆光剪影",
+  "category": [
+   "城市",
+   "天台"
+  ],
+  "space": [
+   "天台"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "city rooftop at",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_209",
+  "name": "霓虹街道 · 黄昏暖光",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_210",
+  "name": "霓虹街道 · 清晨柔光",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_211",
+  "name": "霓虹街道 · 正午自然光",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_212",
+  "name": "霓虹街道 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_213",
+  "name": "霓虹街道 · 室内暖光",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_214",
+  "name": "霓虹街道 · 冷调蓝光",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_215",
+  "name": "霓虹街道 · 电影感打光",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_216",
+  "name": "霓虹街道 · 逆光剪影",
+  "category": [
+   "城市",
+   "街道"
+  ],
+  "space": [
+   "街道"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "neon-lit street",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_217",
+  "name": "老城街巷 · 黄昏暖光",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_218",
+  "name": "老城街巷 · 清晨柔光",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_219",
+  "name": "老城街巷 · 正午自然光",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_220",
+  "name": "老城街巷 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_221",
+  "name": "老城街巷 · 室内暖光",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_222",
+  "name": "老城街巷 · 冷调蓝光",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_223",
+  "name": "老城街巷 · 电影感打光",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_224",
+  "name": "老城街巷 · 逆光剪影",
+  "category": [
+   "城市",
+   "街巷"
+  ],
+  "space": [
+   "街巷"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "old town narrow alley",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_225",
+  "name": "摩天楼群 · 黄昏暖光",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_226",
+  "name": "摩天楼群 · 清晨柔光",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_227",
+  "name": "摩天楼群 · 正午自然光",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_228",
+  "name": "摩天楼群 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_229",
+  "name": "摩天楼群 · 室内暖光",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_230",
+  "name": "摩天楼群 · 冷调蓝光",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_231",
+  "name": "摩天楼群 · 电影感打光",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_232",
+  "name": "摩天楼群 · 逆光剪影",
+  "category": [
+   "城市",
+   "高楼"
+  ],
+  "space": [
+   "高楼"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "skyscraper district",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_233",
+  "name": "人行天桥 · 黄昏暖光",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_234",
+  "name": "人行天桥 · 清晨柔光",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_235",
+  "name": "人行天桥 · 正午自然光",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_236",
+  "name": "人行天桥 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_237",
+  "name": "人行天桥 · 室内暖光",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_238",
+  "name": "人行天桥 · 冷调蓝光",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_239",
+  "name": "人行天桥 · 电影感打光",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_240",
+  "name": "人行天桥 · 逆光剪影",
+  "category": [
+   "城市",
+   "天桥"
+  ],
+  "space": [
+   "天桥"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "pedestrian overpass",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_241",
+  "name": "涂鸦墙街区 · 黄昏暖光",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_242",
+  "name": "涂鸦墙街区 · 清晨柔光",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_243",
+  "name": "涂鸦墙街区 · 正午自然光",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_244",
+  "name": "涂鸦墙街区 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_245",
+  "name": "涂鸦墙街区 · 室内暖光",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_246",
+  "name": "涂鸦墙街区 · 冷调蓝光",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_247",
+  "name": "涂鸦墙街区 · 电影感打光",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_248",
+  "name": "涂鸦墙街区 · 逆光剪影",
+  "category": [
+   "城市",
+   "街区"
+  ],
+  "space": [
+   "街区"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "graffiti wall street",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_249",
+  "name": "繁华商业街 · 黄昏暖光",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_250",
+  "name": "繁华商业街 · 清晨柔光",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_251",
+  "name": "繁华商业街 · 正午自然光",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_252",
+  "name": "繁华商业街 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_253",
+  "name": "繁华商业街 · 室内暖光",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_254",
+  "name": "繁华商业街 · 冷调蓝光",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_255",
+  "name": "繁华商业街 · 电影感打光",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_256",
+  "name": "繁华商业街 · 逆光剪影",
+  "category": [
+   "城市",
+   "商业街"
+  ],
+  "space": [
+   "商业街"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "busy shopping street",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_257",
+  "name": "复古地铁站 · 黄昏暖光",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_258",
+  "name": "复古地铁站 · 清晨柔光",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_259",
+  "name": "复古地铁站 · 正午自然光",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_260",
+  "name": "复古地铁站 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_261",
+  "name": "复古地铁站 · 室内暖光",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_262",
+  "name": "复古地铁站 · 冷调蓝光",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_263",
+  "name": "复古地铁站 · 电影感打光",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_264",
+  "name": "复古地铁站 · 逆光剪影",
+  "category": [
+   "城市",
+   "地铁站"
+  ],
+  "space": [
+   "地铁站"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "retro subway station",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_265",
+  "name": "机场候机厅 · 黄昏暖光",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_266",
+  "name": "机场候机厅 · 清晨柔光",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_267",
+  "name": "机场候机厅 · 正午自然光",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_268",
+  "name": "机场候机厅 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_269",
+  "name": "机场候机厅 · 室内暖光",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_270",
+  "name": "机场候机厅 · 冷调蓝光",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_271",
+  "name": "机场候机厅 · 电影感打光",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_272",
+  "name": "机场候机厅 · 逆光剪影",
+  "category": [
+   "城市",
+   "机场"
+  ],
+  "space": [
+   "机场"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "airport terminal",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_273",
+  "name": "海港码头 · 黄昏暖光",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_274",
+  "name": "海港码头 · 清晨柔光",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_275",
+  "name": "海港码头 · 正午自然光",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_276",
+  "name": "海港码头 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_277",
+  "name": "海港码头 · 室内暖光",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_278",
+  "name": "海港码头 · 冷调蓝光",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_279",
+  "name": "海港码头 · 电影感打光",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_280",
+  "name": "海港码头 · 逆光剪影",
+  "category": [
+   "城市",
+   "码头"
+  ],
+  "space": [
+   "码头"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "harbor dock",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_281",
+  "name": "游艇甲板 · 黄昏暖光",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_282",
+  "name": "游艇甲板 · 清晨柔光",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_283",
+  "name": "游艇甲板 · 正午自然光",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_284",
+  "name": "游艇甲板 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_285",
+  "name": "游艇甲板 · 室内暖光",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_286",
+  "name": "游艇甲板 · 冷调蓝光",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_287",
+  "name": "游艇甲板 · 电影感打光",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_288",
+  "name": "游艇甲板 · 逆光剪影",
+  "category": [
+   "城市",
+   "游艇"
+  ],
+  "space": [
+   "游艇"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "luxury yacht deck",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_289",
+  "name": "天台游泳池 · 黄昏暖光",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_290",
+  "name": "天台游泳池 · 清晨柔光",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_291",
+  "name": "天台游泳池 · 正午自然光",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_292",
+  "name": "天台游泳池 · 夜晚霓虹",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_293",
+  "name": "天台游泳池 · 室内暖光",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_294",
+  "name": "天台游泳池 · 冷调蓝光",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_295",
+  "name": "天台游泳池 · 电影感打光",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_296",
+  "name": "天台游泳池 · 逆光剪影",
+  "category": [
+   "城市",
+   "泳池"
+  ],
+  "space": [
+   "泳池"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "rooftop infinity pool",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_297",
+  "name": "海边沙滩 · 黄昏暖光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_298",
+  "name": "海边沙滩 · 清晨柔光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_299",
+  "name": "海边沙滩 · 正午自然光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_300",
+  "name": "海边沙滩 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_301",
+  "name": "海边沙滩 · 室内暖光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_302",
+  "name": "海边沙滩 · 冷调蓝光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_303",
+  "name": "海边沙滩 · 电影感打光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_304",
+  "name": "海边沙滩 · 逆光剪影",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "seaside sandy beach",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_305",
+  "name": "海边悬崖 · 黄昏暖光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_306",
+  "name": "海边悬崖 · 清晨柔光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_307",
+  "name": "海边悬崖 · 正午自然光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_308",
+  "name": "海边悬崖 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_309",
+  "name": "海边悬崖 · 室内暖光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_310",
+  "name": "海边悬崖 · 冷调蓝光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_311",
+  "name": "海边悬崖 · 电影感打光",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_312",
+  "name": "海边悬崖 · 逆光剪影",
+  "category": [
+   "自然",
+   "海边"
+  ],
+  "space": [
+   "海边"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "coastal cliff",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_313",
+  "name": "花园庭院 · 黄昏暖光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_314",
+  "name": "花园庭院 · 清晨柔光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_315",
+  "name": "花园庭院 · 正午自然光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_316",
+  "name": "花园庭院 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_317",
+  "name": "花园庭院 · 室内暖光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_318",
+  "name": "花园庭院 · 冷调蓝光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_319",
+  "name": "花园庭院 · 电影感打光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_320",
+  "name": "花园庭院 · 逆光剪影",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "garden courtyard",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_321",
+  "name": "樱花小径 · 黄昏暖光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_322",
+  "name": "樱花小径 · 清晨柔光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_323",
+  "name": "樱花小径 · 正午自然光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_324",
+  "name": "樱花小径 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_325",
+  "name": "樱花小径 · 室内暖光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_326",
+  "name": "樱花小径 · 冷调蓝光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_327",
+  "name": "樱花小径 · 电影感打光",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_328",
+  "name": "樱花小径 · 逆光剪影",
+  "category": [
+   "自然",
+   "花园"
+  ],
+  "space": [
+   "花园"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "cherry blossom path",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_329",
+  "name": "枫叶林 · 黄昏暖光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_330",
+  "name": "枫叶林 · 清晨柔光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_331",
+  "name": "枫叶林 · 正午自然光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_332",
+  "name": "枫叶林 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_333",
+  "name": "枫叶林 · 室内暖光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_334",
+  "name": "枫叶林 · 冷调蓝光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_335",
+  "name": "枫叶林 · 电影感打光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_336",
+  "name": "枫叶林 · 逆光剪影",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "autumn maple forest",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_337",
+  "name": "竹林小道 · 黄昏暖光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_338",
+  "name": "竹林小道 · 清晨柔光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_339",
+  "name": "竹林小道 · 正午自然光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_340",
+  "name": "竹林小道 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_341",
+  "name": "竹林小道 · 室内暖光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_342",
+  "name": "竹林小道 · 冷调蓝光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_343",
+  "name": "竹林小道 · 电影感打光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_344",
+  "name": "竹林小道 · 逆光剪影",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "bamboo grove path",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_345",
+  "name": "薰衣草田 · 黄昏暖光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_346",
+  "name": "薰衣草田 · 清晨柔光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_347",
+  "name": "薰衣草田 · 正午自然光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_348",
+  "name": "薰衣草田 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_349",
+  "name": "薰衣草田 · 室内暖光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_350",
+  "name": "薰衣草田 · 冷调蓝光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_351",
+  "name": "薰衣草田 · 电影感打光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_352",
+  "name": "薰衣草田 · 逆光剪影",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "lavender field",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_353",
+  "name": "向日葵田 · 黄昏暖光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_354",
+  "name": "向日葵田 · 清晨柔光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_355",
+  "name": "向日葵田 · 正午自然光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_356",
+  "name": "向日葵田 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_357",
+  "name": "向日葵田 · 室内暖光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_358",
+  "name": "向日葵田 · 冷调蓝光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_359",
+  "name": "向日葵田 · 电影感打光",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_360",
+  "name": "向日葵田 · 逆光剪影",
+  "category": [
+   "自然",
+   "花田"
+  ],
+  "space": [
+   "花田"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "sunflower field",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_361",
+  "name": "雪山脚下 · 黄昏暖光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_362",
+  "name": "雪山脚下 · 清晨柔光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_363",
+  "name": "雪山脚下 · 正午自然光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_364",
+  "name": "雪山脚下 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_365",
+  "name": "雪山脚下 · 室内暖光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_366",
+  "name": "雪山脚下 · 冷调蓝光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_367",
+  "name": "雪山脚下 · 电影感打光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_368",
+  "name": "雪山脚下 · 逆光剪影",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "foot of a snowy mountain",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_369",
+  "name": "雪后街道 · 黄昏暖光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_370",
+  "name": "雪后街道 · 清晨柔光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_371",
+  "name": "雪后街道 · 正午自然光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_372",
+  "name": "雪后街道 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_373",
+  "name": "雪后街道 · 室内暖光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_374",
+  "name": "雪后街道 · 冷调蓝光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_375",
+  "name": "雪后街道 · 电影感打光",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_376",
+  "name": "雪后街道 · 逆光剪影",
+  "category": [
+   "自然",
+   "雪景"
+  ],
+  "space": [
+   "雪景"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "snow-covered street",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_377",
+  "name": "雨后街道 · 黄昏暖光",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_378",
+  "name": "雨后街道 · 清晨柔光",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_379",
+  "name": "雨后街道 · 正午自然光",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_380",
+  "name": "雨后街道 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_381",
+  "name": "雨后街道 · 室内暖光",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_382",
+  "name": "雨后街道 · 冷调蓝光",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_383",
+  "name": "雨后街道 · 电影感打光",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_384",
+  "name": "雨后街道 · 逆光剪影",
+  "category": [
+   "自然",
+   "雨天"
+  ],
+  "space": [
+   "雨天"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "rain-soaked street",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_385",
+  "name": "沙漠沙丘 · 黄昏暖光",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_386",
+  "name": "沙漠沙丘 · 清晨柔光",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_387",
+  "name": "沙漠沙丘 · 正午自然光",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_388",
+  "name": "沙漠沙丘 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_389",
+  "name": "沙漠沙丘 · 室内暖光",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_390",
+  "name": "沙漠沙丘 · 冷调蓝光",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_391",
+  "name": "沙漠沙丘 · 电影感打光",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_392",
+  "name": "沙漠沙丘 · 逆光剪影",
+  "category": [
+   "自然",
+   "沙漠"
+  ],
+  "space": [
+   "沙漠"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "desert sand dunes",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_393",
+  "name": "辽阔草原 · 黄昏暖光",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_394",
+  "name": "辽阔草原 · 清晨柔光",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_395",
+  "name": "辽阔草原 · 正午自然光",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_396",
+  "name": "辽阔草原 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_397",
+  "name": "辽阔草原 · 室内暖光",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_398",
+  "name": "辽阔草原 · 冷调蓝光",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_399",
+  "name": "辽阔草原 · 电影感打光",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_400",
+  "name": "辽阔草原 · 逆光剪影",
+  "category": [
+   "自然",
+   "草原"
+  ],
+  "space": [
+   "草原"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "open grassland plains",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_401",
+  "name": "森林小径 · 黄昏暖光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_402",
+  "name": "森林小径 · 清晨柔光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_403",
+  "name": "森林小径 · 正午自然光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_404",
+  "name": "森林小径 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_405",
+  "name": "森林小径 · 室内暖光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_406",
+  "name": "森林小径 · 冷调蓝光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_407",
+  "name": "森林小径 · 电影感打光",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_408",
+  "name": "森林小径 · 逆光剪影",
+  "category": [
+   "自然",
+   "森林"
+  ],
+  "space": [
+   "森林"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "misty forest trail",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_409",
+  "name": "静谧湖边 · 黄昏暖光",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_410",
+  "name": "静谧湖边 · 清晨柔光",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_411",
+  "name": "静谧湖边 · 正午自然光",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_412",
+  "name": "静谧湖边 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_413",
+  "name": "静谧湖边 · 室内暖光",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_414",
+  "name": "静谧湖边 · 冷调蓝光",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_415",
+  "name": "静谧湖边 · 电影感打光",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_416",
+  "name": "静谧湖边 · 逆光剪影",
+  "category": [
+   "自然",
+   "湖边"
+  ],
+  "space": [
+   "湖边"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "tranquil lakeside",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_417",
+  "name": "古镇水乡 · 黄昏暖光",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "golden hour, warm sunset light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_418",
+  "name": "古镇水乡 · 清晨柔光",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "soft morning light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_419",
+  "name": "古镇水乡 · 正午自然光",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "bright midday natural light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_420",
+  "name": "古镇水乡 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "night neon lights",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_421",
+  "name": "古镇水乡 · 室内暖光",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "warm ambient indoor light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_422",
+  "name": "古镇水乡 · 冷调蓝光",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "cool blue tone lighting",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_423",
+  "name": "古镇水乡 · 电影感打光",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "cinematic dramatic lighting",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_424",
+  "name": "古镇水乡 · 逆光剪影",
+  "category": [
+   "自然",
+   "水乡"
+  ],
+  "space": [
+   "水乡"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "ancient water town",
+   "backlight rim light",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_425",
+  "name": "开阔公路 · 黄昏暖光",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "golden hour, warm sunset light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_426",
+  "name": "开阔公路 · 清晨柔光",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "soft morning light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_427",
+  "name": "开阔公路 · 正午自然光",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "bright midday natural light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_428",
+  "name": "开阔公路 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "night neon lights",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_429",
+  "name": "开阔公路 · 室内暖光",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "warm ambient indoor light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_430",
+  "name": "开阔公路 · 冷调蓝光",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "cool blue tone lighting",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_431",
+  "name": "开阔公路 · 电影感打光",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "cinematic dramatic lighting",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_432",
+  "name": "开阔公路 · 逆光剪影",
+  "category": [
+   "自然",
+   "公路"
+  ],
+  "space": [
+   "公路"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "open desert highway",
+   "backlight rim light",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_433",
+  "name": "葡萄园 · 黄昏暖光",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "黄昏暖光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "golden hour, warm sunset light",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_434",
+  "name": "葡萄园 · 清晨柔光",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "清新"
+  ],
+  "lighting": [
+   "清晨柔光"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "soft morning light",
+   "medium half-body shot"
+  ]
+ },
+ {
+  "id": "bg_435",
+  "name": "葡萄园 · 正午自然光",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "自然"
+  ],
+  "lighting": [
+   "正午自然光"
+  ],
+  "perspective": [
+   "全身远景"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "bright midday natural light",
+   "full-body wide shot"
+  ]
+ },
+ {
+  "id": "bg_436",
+  "name": "葡萄园 · 夜晚霓虹",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "霓虹"
+  ],
+  "lighting": [
+   "夜晚霓虹"
+  ],
+  "perspective": [
+   "广角环境"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "night neon lights",
+   "wide-angle environmental shot"
+  ]
+ },
+ {
+  "id": "bg_437",
+  "name": "葡萄园 · 室内暖光",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "温暖"
+  ],
+  "lighting": [
+   "室内暖光"
+  ],
+  "perspective": [
+   "俯视"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "warm ambient indoor light",
+   "high-angle view"
+  ]
+ },
+ {
+  "id": "bg_438",
+  "name": "葡萄园 · 冷调蓝光",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "冷感"
+  ],
+  "lighting": [
+   "冷调蓝光"
+  ],
+  "perspective": [
+   "仰视"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "cool blue tone lighting",
+   "low-angle view"
+  ]
+ },
+ {
+  "id": "bg_439",
+  "name": "葡萄园 · 电影感打光",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "电影感"
+  ],
+  "lighting": [
+   "电影感打光"
+  ],
+  "perspective": [
+   "特写"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "cinematic dramatic lighting",
+   "close-up framing"
+  ]
+ },
+ {
+  "id": "bg_440",
+  "name": "葡萄园 · 逆光剪影",
+  "category": [
+   "自然",
+   "葡萄园"
+  ],
+  "space": [
+   "葡萄园"
+  ],
+  "atmosphere": [
+   "氛围感"
+  ],
+  "lighting": [
+   "逆光剪影"
+  ],
+  "perspective": [
+   "半身中景"
+  ],
+  "prompt_keywords": [
+   "vineyard rows",
+   "backlight rim light",
+   "medium half-body shot"
+  ]
+ }
+]

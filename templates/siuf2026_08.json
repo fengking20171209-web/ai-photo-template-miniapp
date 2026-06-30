@@ -1,0 +1,54 @@
+{
+  "template_id": "siuf2026_08",
+  "category": "SIUF 2026 内衣秀",
+  "title": "08-oriental-chinoiserie",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 东方古典庭院（oriental-courtyard），竹林假山水景，石板小径木质回廊，纸灯笼柔光，中式园林曲径通幽",
+  "clothing": "Outfit: 黑色刺绣蕾丝内衣套装（lace-embroidery），黑色蕾丝底布搭配金色花卉刺绣，高定工艺精雕细琢，高腰蕾丝底裤，同色系丝绸披肩，金色发簪配套耳饰",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，御姐纯欲风格，25-30岁轻熟气质，韩系高级脸，鹅蛋脸型，面部轮廓柔和，苹果肌饱满，168-172cm匀称微丰满身材，腰臀比明显，白皙通透肤色，自然肌肤纹理，锁骨明显，颈部线条修长，眼神有故事感",
+    "face": "Hair: 东方古典盘发（oriental-bun），高盘发髻圆润规整，搭配古典发簪装饰，额前空气刘海柔化脸部，端庄大气有文化底蕴，深黑发色",
+    "clothing": "Outfit: 黑色刺绣蕾丝内衣套装（lace-embroidery），黑色蕾丝底布搭配金色花卉刺绣，高定工艺精雕细琢，高腰蕾丝底裤，同色系丝绸披肩，金色发簪配套耳饰",
+    "scene": "Scene: 东方古典庭院（oriental-courtyard），竹林假山水景，石板小径木质回廊，纸灯笼柔光，中式园林曲径通幽",
+    "lighting": "Lighting: 电影暖色钨丝灯（cinematic-tungsten），侧光照射产生伦勃朗三角光，暖黄2700K色温，纸灯笼散射柔光补充",
+    "camera": "Camera: Canon EOS R5，50mm F1.8半身构图，柔光箱高调，聚焦面部古典盘发和刺绣细节，浅景深虚化庭院背景",
+    "quality": "Material: 微距蕾丝刺绣面料（micro-lace），黑色蕾丝上金色刺绣花纹投射精致阴影到肌肤，透光与不透光的精美对比，花纹随身体曲线变形更显精致",
+    "commercial_use": "Mood: 神秘优雅，东方美学的深邃意境，古典与现代的融合之美，不食人间烟火的仙气，东方女性的含蓄魅力"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "08-oriental-chinoiserie.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "中式园林曲径通幽",
+    "内衣",
+    "同色系丝绸披肩",
+    "时尚",
+    "石板小径木质回廊",
+    "秀场",
+    "竹林假山水景",
+    "纸灯笼柔光",
+    "金色发簪配套耳饰",
+    "高定工艺精雕细琢",
+    "高腰蕾丝底裤"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "template_id": "siuf2026_17",
+  "category": "SIUF 2026 内衣秀",
+  "title": "17-dark-gothic",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 黑色影棚（black-studio），纯黑无缝背景，低调照明突出主体，暗黑高级感的拍摄空间",
+  "clothing": "Outfit: 暗黑哥特蕾丝内衣套装（lace-gothic），黑色蕾丝搭配暗红色刺绣，哥特十字架金属装饰，长款蕾丝罩衫如暗夜斗篷，黑色皮革绑带，银色骷髅戒指",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，国际超模风格，25-30岁冷艳气质，长脸偏方，颧骨高挺，下颌线锐利，175-180cm骨感修长身材，冷白皮骨骼结构立体，锁骨突出颈部修长，无表情高级脸带攻击性",
+    "face": "Hair: 高马尾（high-ponytail），高扎马尾辫蓬松有力，黑色发丝如暗夜瀑布，发尾微微卷曲，额前碎发增添野性，运动感与力量感并存",
+    "clothing": "Outfit: 暗黑哥特蕾丝内衣套装（lace-gothic），黑色蕾丝搭配暗红色刺绣，哥特十字架金属装饰，长款蕾丝罩衫如暗夜斗篷，黑色皮革绑带，银色骷髅戒指",
+    "scene": "Scene: 黑色影棚（black-studio），纯黑无缝背景，低调照明突出主体，暗黑高级感的拍摄空间",
+    "lighting": "Lighting: 赛博蓝紫冷光（cyber-blue-purple）+ 霓虹边缘光（neon-edge），暗红色霓虹灯提供边缘光，蓝紫色冷光从侧面照射，整体暗调高对比",
+    "camera": "Camera: Fujifilm GFX 100 II，50mm F2.0，全身构图黑色背景，光影对比强烈",
+    "quality": "Material: 微距蕾丝刺绣面料（micro-lace），黑色蕾丝上暗红刺绣花纹，哥特风格的精致花纹投射阴影，透光与不透光的暗黑对比",
+    "commercial_use": "Mood: 主导强势，暗黑哥特的极致美学，力量与美的碰撞，暗夜女王的统治感，哥特浪漫的暗黑魅力"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "17-dark-gothic.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "低调照明突出主体",
+    "内衣",
+    "时尚",
+    "秀场",
+    "纯黑无缝背景",
+    "银色骷髅戒指",
+    "黑色皮革绑带"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "template_id": "dudou_d03",
+  "category": "肚兜现代时装",
+  "title": "d03-ivory-embroidered",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "东方奢华时装",
+  "scene": "Scene: luxury hotel corridor, warm soft light, marble floor, modern oriental boutique atmosphere",
+  "clothing": "Outfit: ivory white embroidered silk dudou-inspired halter top, single rhomboid fabric panel, gold thread floral embroidery, tied behind neck and waist, traditional Chinese dudou structure, clearly not qipao, cream-colored high-waist fitted mini skirt, nude sheer stockings, beige pointed heels",
+  "prompt_blocks": {
+    "subject": "Model: young adult East Asian woman, soft round face, slightly fuller cheeks, natural facial proportions, visible skin pores, gentle refined expression",
+    "face": "Hair: half-up hairstyle with soft waves, delicate side strands, romantic modern oriental style",
+    "clothing": "Outfit: ivory white embroidered silk dudou-inspired halter top, single rhomboid fabric panel, gold thread floral embroidery, tied behind neck and waist, traditional Chinese dudou structure, clearly not qipao, cream-colored high-waist fitted mini skirt, nude sheer stockings, beige pointed heels",
+    "scene": "Scene: luxury hotel corridor, warm soft light, marble floor, modern oriental boutique atmosphere",
+    "lighting": "Lighting: warm soft corridor light, tungsten 3200K, marble reflection",
+    "camera": "Camera: 85mm lens, full-body editorial fashion photography, shallow depth of field, warm soft lighting, realistic RAW photo texture",
+    "quality": "Material: ivory silk dudou with gold thread embroidery, nude sheer nylon",
+    "commercial_use": "Mood: 温柔白月光, refined oriental elegance"
+  },
+  "negative_prompt": [
+    "anime",
+    "cartoon",
+    "3D render",
+    "CGI",
+    "plastic skin",
+    "doll face",
+    "oversized eyes",
+    "sharp V-line face",
+    "perfect symmetry",
+    "distorted hands",
+    "bad fingers",
+    "stiff pose",
+    "over-smoothed skin",
+    "cheap glamour",
+    "vulgar erotic pose",
+    "explicit nudity",
+    "see-through exposure",
+    "qipao dress",
+    "cheongsam collar",
+    "western corset",
+    "AI-generated face",
+    "low quality",
+    "blurry face",
+    "bad anatomy"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "d03-ivory-embroidered.md",
+  "tags": [
+    "东方奢华时装",
+    "性感",
+    "时装",
+    "现代",
+    "肚兜"
+  ]
+}

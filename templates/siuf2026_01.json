@@ -1,0 +1,55 @@
+{
+  "template_id": "siuf2026_01",
+  "category": "SIUF 2026 内衣秀",
+  "title": "01-black-lace-finale",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 2026 SIUF深圳内衣展主舞台（siuf-runway），蓝色冰屏灯光背景，大量T台射灯，烟雾效果弥漫，国际时装周秀场级舞台设计",
+  "clothing": "Outfit: 黑色蕾丝镂空内衣套装（lace-black），半透明蕾丝罩杯，精致刺绣花边，高腰蕾丝底裤，侧面绑带设计，黑色吊带袜，Swarovski水晶锁骨链，细跟黑色高跟鞋",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，国际超模风格，25-30岁冷艳气质，长脸偏方，颧骨高挺，下颌线锐利如刀刻，眼窝深邃，175-180cm骨感修长身材，超模比例十头身，冷白皮，骨骼结构立体，锁骨突出，颈部修长，眼神冷淡带攻击性，天生T台脸",
+    "face": "Hair: 湿感大波浪长卷发（wet-wave），黑色发丝光泽如水，发尾湿润感，大波浪卷度自然垂落，风吹发丝的随机感，慵懒中带精致，发质柔顺有水光感",
+    "clothing": "Outfit: 黑色蕾丝镂空内衣套装（lace-black），半透明蕾丝罩杯，精致刺绣花边，高腰蕾丝底裤，侧面绑带设计，黑色吊带袜，Swarovski水晶锁骨链，细跟黑色高跟鞋",
+    "scene": "Scene: 2026 SIUF深圳内衣展主舞台（siuf-runway），蓝色冰屏灯光背景，大量T台射灯，烟雾效果弥漫，国际时装周秀场级舞台设计",
+    "lighting": "Lighting: 秀场顶光+追光灯（runway-spotlight），主光从头顶45度照射，辅助侧光勾勒身体轮廓，冷色温5600K，烟雾中光线散射产生体积光效果",
+    "camera": "Camera: Hasselblad X1D II 50C，135mm长焦压缩，F2.8光圈，SIUF官方构图（SIUF_OFFICIAL_FRAMING），中景偏全身，品牌感秀场构图，浅景深虚化背景灯光",
+    "quality": "Material: 微距蕾丝刺绣面料（micro-lace），花纹投射精致阴影到肌肤，透光与不透光的精美对比，刺绣细节极致丰富，花纹随身体曲线变形更显精致，高定工艺级别面料",
+    "commercial_use": "Mood: 自信霸气，冷艳疏离，秀场女王气场，不怒自威的掌控感，高级时装的压迫感，T台压轴的戏剧张力"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "01-black-lace-finale.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "侧面绑带设计",
+    "内衣",
+    "半透明蕾丝罩杯",
+    "大量T台射灯",
+    "时尚",
+    "烟雾效果弥漫",
+    "秀场",
+    "精致刺绣花边",
+    "细跟黑色高跟鞋",
+    "蓝色冰屏灯光背景",
+    "高腰蕾丝底裤",
+    "黑色吊带袜"
+  ]
+}

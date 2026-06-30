@@ -1,0 +1,595 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 写真工坊 · Studio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="studio">
+
+  <!-- ===== 顶栏 ===== -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <span class="brand-logo" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 20 7 20 17 12 22 4 17 4 7 12 2"/><circle cx="12" cy="12" r="3"/></svg>
+      </span>
+      <span class="brand-name">写真工坊 <em>Studio</em></span>
+      <span class="status-pill">
+        <span class="status-dot" id="statusDot"></span>
+        <span class="status-text" id="statusText">连接中...</span>
+      </span>
+    </div>
+    <div class="topbar-right">
+      <div class="theme-switcher" id="themeSwitcher" title="切换色调">
+        <button class="theme-dot active" data-theme="dark" style="background:#15131c" title="暗黑"></button>
+        <button class="theme-dot" data-theme="purple" style="background:#1a1428" title="深紫"></button>
+        <button class="theme-dot" data-theme="warm" style="background:#2a1f14" title="暖棕"></button>
+        <button class="theme-dot" data-theme="light" style="background:#f0ede8" title="浅色"></button>
+      </div>
+      <button id="demoBtn" class="topbar-btn" type="button" title="演示模式">Demo</button>
+      <button class="topbar-btn" type="button" title="帮助">帮助</button>
+    </div>
+  </header>
+
+  <!-- ===== 工作室主体：导航轨 + 设置 + 结果 + 助手 ===== -->
+  <div class="studio-shell">
+
+    <!-- 左侧导航轨 -->
+    <nav class="rail" aria-label="主导航">
+      <div class="rail-items">
+        <button class="rail-item tab-btn active" data-tab="generate" title="工作区">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          <span>工作区</span>
+        </button>
+        <button class="rail-item tab-btn" data-tab="gallery" title="精品库">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+          <span>精品库</span>
+        </button>
+        <button class="rail-item tab-btn" data-tab="models" title="模特库">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          <span>模特库</span>
+        </button>
+        <button class="rail-item tab-btn" data-tab="backgrounds" title="背景库">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 15l4-4 4 4 6-6 4 4"/><circle cx="8" cy="8" r="1.5"/></svg>
+          <span>背景库</span>
+        </button>
+        <button class="rail-item tab-btn" data-tab="outfits" title="服装库">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 4l-4 2-4-2-5 4 3 3 2-1v9h8v-9l2 1 3-3z"/></svg>
+          <span>服装库</span>
+        </button>
+        <button class="rail-item" id="railPromptLib" title="提示词库">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          <span>提示词库</span>
+        </button>
+        <button class="rail-item rail-accent" id="railRandom" title="随机生图">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+          <span>随机生图</span>
+        </button>
+      </div>
+      <div class="rail-bottom">
+        <div class="rail-mem" title="本地资源占用">
+          <div class="rail-mem-label">内存占用</div>
+          <div class="rail-mem-value">1.26 GB / 16 GB</div>
+          <div class="rail-mem-bar"><i style="width:8%"></i></div>
+        </div>
+        <button class="rail-item" id="railSettings" title="设置" onclick="location.href='settings.html'">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06A1.65 1.65 0 0 0 15 19.4a1.65 1.65 0 0 0-1 .6 1.65 1.65 0 0 0-.4 1.1V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 8.6 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.6 15a1.65 1.65 0 0 0-.6-1 1.65 1.65 0 0 0-1.1-.4H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 8.6a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.6a1.65 1.65 0 0 0 1-.6 1.65 1.65 0 0 0 .4-1.1V3a2 2 0 1 1 4 0v.09A1.65 1.65 0 0 0 15.4 4.6a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9c.2.36.3.75.3 1.15H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+          <span>设置</span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- 主工作区（生成 tab） -->
+    <section class="tab-panel active workspace" id="tab-generate">
+
+      <!-- 提示词库面板 -->
+      <aside class="panel library-panel">
+        <div class="panel-head lib-head">
+          <h2>提示词库</h2>
+          <span class="lib-hint-badge">选词组合 · 一键生成</span>
+        </div>
+        <div class="panel-body lib-body">
+          <div class="active-model-bar" id="activeModelBar">
+            <div class="amb-info">
+              <span class="amb-label">当前模特</span>
+              <span class="amb-name" id="activeModelName">未选择</span>
+              <span class="amb-lock" id="activeModelLock">未锁定</span>
+            </div>
+            <div class="amb-actions">
+              <button class="amb-btn" id="pickModelBtn" title="去模特库选择">选择</button>
+              <button class="amb-btn" id="clearModelBtn" title="取消当前模特" hidden>取消</button>
+            </div>
+          </div>
+
+          <div class="lib-search">
+            <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="librarySearch" placeholder="搜索关键词（场景/人物/服装/姿态/风格）" autocomplete="off" />
+            <button class="lib-add" id="addCustomTagBtn" title="把搜索词加为自定义提示词">+</button>
+          </div>
+
+          <div class="lib-accordion" id="promptLibrary"></div>
+
+          <div class="selected-wrap">
+            <div class="selected-head">
+              <span>已选提示词 (<b id="selectedCount">0</b>)</span>
+              <button id="clearTagsBtn" class="link-btn">清空</button>
+            </div>
+            <div class="selected-tags" id="selectedTags"></div>
+          </div>
+
+          <!-- 🤖 Prompt Copilot Agent v1：只操作草稿，绝不生图 -->
+          <details class="copilot" id="copilot">
+            <summary>🤖 Prompt Copilot <span class="copilot-hint">补全 / 增强 / 变体 / 随机（仅写草稿）</span></summary>
+            <div class="copilot-body">
+              <textarea id="copilotInput" rows="2" placeholder="描述意图，如：hotel + bunny + korean model"></textarea>
+              <div class="copilot-actions">
+                <button id="copilotComplete" class="cp-btn primary">✨ 自动补全</button>
+                <button id="copilotEnhance" class="cp-btn">增强</button>
+                <button id="copilotVariations" class="cp-btn">3 变体</button>
+                <button id="copilotRandom" class="cp-btn">🎲 随机</button>
+              </div>
+              <div class="copilot-out" id="copilotOut"></div>
+            </div>
+          </details>
+
+          <!-- ✨ 智能推荐（CRE v1）：选中任一素材后给出关联建议，点击仅填入草稿 -->
+          <details class="smart-recommend" id="smartRecommend" hidden>
+            <summary>✨ 智能推荐 <span class="sr-hint" id="srHint"></span><button id="creModeToggle" class="cre-mode-btn" title="切换 CRE v1/v2 评分模式">V2</button></summary>
+            <div class="sr-body" id="srBody"></div>
+          </details>
+
+          <!-- 折叠的生成设置：模型/尺寸/自定义提示词/背景/负面/参考图 -->
+          <details class="gen-settings" id="genSettings">
+            <summary>⚙ 生成设置（模型 / 尺寸 / 背景 / 负面 / 参考图）</summary>
+            <div class="gen-settings-body">
+              <label class="field">
+                <span class="field-label">模型</span>
+                <div class="select-wrap">
+                  <select id="modelSelect">
+                    <option value="mock">🎭 Mock（测试）</option>
+                    <option value="sensenova">⚡ SenseNova U1</option>
+                    <option value="agnes">✨ Agnes 2.1</option>
+                  </select>
+                </div>
+              </label>
+              <label class="field">
+                <span class="field-label">尺寸 <small>（按所选模型自动匹配）</small></span>
+                <div class="select-wrap">
+                  <select id="sizeSelect"><option value="">跟随模板 / 默认</option></select>
+                </div>
+              </label>
+              <div class="field">
+                <span class="field-label">自定义提示词 <small>（追加到所选词后）</small></span>
+                <div class="textarea-wrap">
+                  <textarea id="promptInput" rows="3" maxlength="500" placeholder="补充描述，可留空…"></textarea>
+                  <span class="char-count"><b id="promptCount">0</b> / 500</span>
+                </div>
+              </div>
+              <div class="field">
+                <span class="field-label">背景 <small>（DIY · 覆盖模板锁定的场景）</small></span>
+                <input type="text" id="backgroundInput" maxlength="200" placeholder="如：纯白影棚 / 城市夜景 / 海边日落…" />
+                <div class="bg-presets" id="bgPresets">
+                  <button type="button" class="bg-chip" data-bg="纯白影棚背景，柔和均匀布光">纯白影棚</button>
+                  <button type="button" class="bg-chip" data-bg="纯色背景，简洁干净">纯色背景</button>
+                  <button type="button" class="bg-chip" data-bg="城市街景，霓虹夜色">城市夜景</button>
+                  <button type="button" class="bg-chip" data-bg="海边沙滩，日落金色光线">海边日落</button>
+                  <button type="button" class="bg-chip" data-bg="室内书房，温暖灯光，书架背景">室内书房</button>
+                  <button type="button" class="bg-chip" data-bg="自然户外，绿植花园，柔和阳光">自然户外</button>
+                </div>
+              </div>
+              <div class="field">
+                <span class="field-label">负面提示词 <small>（独立参数）</small></span>
+                <input type="text" id="negativeInput" maxlength="300" placeholder="如：多余手指、模糊、变形、低质量…" />
+              </div>
+              <div class="field">
+                <span class="field-label">图片上传 <small>（上传后在图上修改 = 图生图）</small></span>
+                <div class="dropzone" id="uploadDropzone">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+                  <p>点击或拖拽上传参考图</p>
+                  <small>JPG / PNG / WEBP ≤ 10MB</small>
+                  <input type="file" id="fileInput" accept="image/*" multiple hidden />
+                  <button id="selectFilesBtn" type="button" hidden>选择文件</button>
+                </div>
+                <div id="uploadProgress" class="upload-progress hidden"></div>
+              </div>
+            </div>
+          </details>
+
+          <button class="btn-primary btn-block" id="generateTemplateBtn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+            一键生成
+          </button>
+          <p class="gen-hint">空着直接点也行 — 系统按 CRE v2 自动补全背景/服装/光影，生成后草稿仍可编辑。</p>
+          <button class="btn-ghost-accent btn-block" id="randomGenBtn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5"/><path d="M21 3l-7 7"/><path d="M8 21H3v-5"/><path d="M3 21l7-7"/><path d="M3 8V3h5"/><path d="M16 21h5v-5"/></svg>
+            🎲 Surprise 一键灵感
+          </button>
+
+          <div class="lib-footer">
+            <button class="lib-foot-btn" id="favFooterBtn">☆ 收藏夹</button>
+            <button class="lib-foot-btn" id="historyFooterBtn">⏱ 历史记录</button>
+          </div>
+        </div>
+      </aside>
+
+      <!-- 生成结果面板 -->
+      <section class="panel result-panel">
+        <div class="panel-head result-head">
+          <h2>生成结果</h2>
+          <div class="result-tools">
+            <button class="tool-btn" id="continueEditBtn" title="把这张设为参考图，继续修改">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+              <span>续改</span>
+            </button>
+            <button class="tool-btn" id="regenBtn" title="重新生成">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
+              <span>重新生成</span>
+            </button>
+            <button class="tool-btn" id="zoomBtn" title="全屏查看">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg>
+              <span>放大</span>
+            </button>
+            <button class="tool-btn" id="copyPromptBtn" title="复制提示词">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+              <span>提示词</span>
+            </button>
+            <button class="tool-btn" id="downloadBtn" title="下载">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>下载</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="image-stage" id="imageStage">
+          <div class="stage-placeholder" id="stagePlaceholder">
+            <div class="placeholder-icon">
+              <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+            </div>
+            <p class="placeholder-hint">设置模型与提示词，点击“生成图片”开始创作</p>
+          </div>
+          <img id="resultImage" class="result-image hidden" alt="生成结果" />
+          <div class="stage-loading hidden" id="stageLoading">
+            <div class="loading-ring"></div>
+            <span id="loadingText">生成中...</span>
+            <div class="loading-progress-wrap" id="loadingProgressWrap" style="display:none">
+              <div class="loading-progress-bar" id="loadingProgressBar"></div>
+            </div>
+          </div>
+          <!-- 隐藏：保留给逻辑使用的操作浮层 -->
+          <div class="image-actions hidden" id="imageActions" aria-hidden="true"></div>
+          <div class="step-indicator hidden" id="stepIndicator">
+            <span class="step-dot" data-step="submit">提交</span>
+            <span class="step-line"></span>
+            <span class="step-dot" data-step="generate">生成</span>
+            <span class="step-line"></span>
+            <span class="step-dot" data-step="finish">完成</span>
+          </div>
+        </div>
+        <div class="variation-strip hidden" id="variationStrip"></div>
+      </section>
+
+      <!-- AI 智能体面板（docked 右栏，由 chat.js 驱动） -->
+      <aside class="panel assistant-panel" id="chatPanel">
+        <div class="panel-head assistant-head">
+          <h2>AI 智能体</h2>
+          <button class="icon-btn" id="chatCloseBtn" title="收起" aria-label="收起助手">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="13 17 18 12 13 7"/><polyline points="6 17 11 12 6 7"/></svg>
+          </button>
+        </div>
+
+        <div class="assistant-greeting" id="assistantGreeting">
+          你好 👋<br>我可以帮你优化提示词、分析图像、提供创意建议，或执行复杂的生成任务。
+        </div>
+
+        <div class="assistant-quick-wrap collapsed" id="assistantQuickWrap">
+          <button class="quick-toggle" id="quickToggle" type="button" aria-expanded="false">
+            <span>✨ 快捷指令</span>
+            <svg class="chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="assistant-quick" id="assistantQuick">
+            <button class="quick-act" data-quick="优化当前提示词">✨ 优化当前提示词</button>
+            <button class="quick-act" data-quick="帮我改变姿势或表情">🧍 改变姿势或表情</button>
+            <button class="quick-act" data-quick="更换场景或服装">👗 更换场景或服装</button>
+            <button class="quick-act" data-quick="提升画质与细节">🔍 提升画质与细节</button>
+            <button class="quick-act" data-quick="生成相似风格的图片">🖼️ 生成相似风格图片</button>
+          </div>
+        </div>
+
+        <div class="chat-messages" id="chatMessages">
+          <div class="chat-msg assistant">
+            <div class="msg-bubble">告诉我你的创作想法，我来帮你完善 ✨</div>
+          </div>
+        </div>
+
+        <!-- 聊天设置（保留 chat.js 结构，折叠在抽屉里） -->
+        <div class="chat-settings hidden" id="chatSettingsPanel">
+          <div class="chat-settings-tabs" role="tablist" aria-label="聊天设置分类">
+            <button class="chat-settings-tab active" data-chat-settings-tab="general" type="button">常规</button>
+            <button class="chat-settings-tab" data-chat-settings-tab="prompt" type="button">配置</button>
+            <button class="chat-settings-tab" data-chat-settings-tab="override" type="button">覆盖</button>
+            <button class="chat-settings-tab" data-chat-settings-tab="advanced" type="button">高级</button>
+          </div>
+          <div class="chat-settings-body">
+            <section class="chat-settings-page active" data-chat-settings-page="general">
+              <div class="chat-setting-field">
+                <span>提供商</span>
+                <div class="chat-setting-readonly">Agnes Chat Proxy</div>
+                <small>通过后端 /chat 代理调用，密钥保存在服务端</small>
+              </div>
+              <div class="chat-setting-field">
+                <span>模型</span>
+                <div class="chat-setting-readonly">服务端默认模型</div>
+                <small>模型由后端环境变量控制，前端不传 model</small>
+              </div>
+              <label class="chat-setting-field">
+                <span>配置档</span>
+                <select id="chatProfileSelect">
+                  <option value="creative">Creative Brainstormer</option>
+                  <option value="prompt-engineer">Photo Prompt Engineer</option>
+                  <option value="strict">Concise Studio Assistant</option>
+                </select>
+                <small>选择写真助手的回复风格</small>
+              </label>
+            </section>
+            <section class="chat-settings-page" data-chat-settings-page="prompt">
+              <label class="chat-setting-field">
+                <span>系统提示词</span>
+                <textarea id="chatSystemPromptInput" class="chat-setting-textarea" rows="8"></textarea>
+                <small>作为写真助手的基础行为提示词</small>
+              </label>
+              <label class="chat-setting-check">
+                <input type="checkbox" id="chatInjectTemplateContext" checked>
+                <span>注入当前模板上下文</span>
+              </label>
+            </section>
+            <section class="chat-settings-page" data-chat-settings-page="override">
+              <label class="chat-setting-slider">
+                <span>温度 <output id="chatTemperatureValue">0.55</output></span>
+                <input type="range" id="chatTemperatureInput" min="0" max="1" step="0.05" value="0.55">
+                <small>较低更稳定，较高更有创意</small>
+              </label>
+              <label class="chat-setting-slider">
+                <span>最大 Token 数</span>
+                <input type="number" id="chatMaxTokensInput" min="256" max="4096" step="128" value="1200">
+                <small>控制写真助手单次回复长度</small>
+              </label>
+              <label class="chat-setting-check">
+                <input type="checkbox" id="chatStreamInput" checked>
+                <span>流式输出</span>
+              </label>
+            </section>
+            <section class="chat-settings-page" data-chat-settings-page="advanced">
+              <button class="chat-settings-collapse" type="button" data-collapse-target="chatAdvancedPromptRules">
+                <span>提示词生成规则</span><span class="chevron">›</span>
+              </button>
+              <div class="chat-settings-collapse-body" id="chatAdvancedPromptRules">
+                <label class="chat-setting-check"><input type="checkbox" id="chatReturnPromptMarker" checked><span>要求使用【提示词：...】格式输出可应用提示词</span></label>
+                <label class="chat-setting-check"><input type="checkbox" id="chatShortReply" checked><span>回复控制在 200 字以内</span></label>
+              </div>
+              <button class="chat-settings-reset" id="chatSettingsResetBtn" type="button">恢复默认设置</button>
+            </section>
+          </div>
+        </div>
+
+        <div class="assistant-apply-bar">
+          <button class="apply-btn" id="applyToImageBtn">✏️ 按助手建议改这张图</button>
+        </div>
+
+        <div class="chat-input-area">
+          <button class="chat-icon-btn" id="chatSettingsBtn" title="聊天设置" aria-label="聊天设置">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06A1.65 1.65 0 0 0 15 19.4a1.65 1.65 0 0 0-1 .6 1.65 1.65 0 0 0-.4 1.1V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 8.6 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.6 15a1.65 1.65 0 0 0-.6-1 1.65 1.65 0 0 0-1.1-.4H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 8.6a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.6a1.65 1.65 0 0 0 1-.6 1.65 1.65 0 0 0 .4-1.1V3a2 2 0 1 1 4 0v.09A1.65 1.65 0 0 0 15.4 4.6a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9c.2.36.3.75.3 1.15H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+        </button>
+          <textarea class="chat-input" id="chatInput" rows="1" placeholder="描述你想要的修改..."></textarea>
+          <button class="chat-send-btn" id="chatSendBtn" aria-label="发送">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+          </button>
+        </div>
+      </aside>
+
+      <!-- 知识库 & 精品库（默认隐藏的底部抽屉，点导航轨“提示词库”弹出） -->
+      <section class="panel knowledge-panel" id="sidebar">
+        <div class="knowledge-head">
+          <h2>知识库 &amp; 精品库 <small style="font-weight:400;color:var(--text-3);font-size:12px;">（风格参考，选了只借风格，背景仍自由）</small></h2>
+          <div class="knowledge-tools">
+            <div class="search-box">
+              <svg class="search-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+              <input type="text" id="templateSearch" placeholder="搜索模板..." autocomplete="off" />
+              <button id="clearSearchBtn" class="clear-btn hidden" title="清除">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+              </button>
+            </div>
+            <button id="knowledgeCloseBtn" class="icon-btn" title="收起知识库" aria-label="收起知识库">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+            <button id="sidebarToggle" class="icon-btn" title="收起" hidden></button>
+            <button id="showSidebarBtn" hidden></button>
+          </div>
+        </div>
+        <div class="quick-filters" id="quickFilters">
+          <button class="qf-btn" data-qf="recommended">热门</button>
+          <button class="qf-btn" data-qf="favorites">收藏</button>
+          <button class="qf-btn" data-qf="recent">最近</button>
+        </div>
+        <div class="category-filter" id="categoryFilter"></div>
+        <div class="template-list knowledge-strip" id="templateList">
+          <div class="template-loading">加载中...</div>
+        </div>
+      </section>
+    </section>
+
+    <!-- 精品库 / 作品集 tab -->
+    <section class="tab-panel gallery-tab" id="tab-gallery">
+      <div class="panel gallery-wrap">
+        <div class="gallery-toolbar">
+          <span class="gallery-title">精品库 · 作品集</span>
+          <div class="gallery-tools">
+            <button id="gallerySelectBtn" class="btn-ghost-sm">☑ 多选管理</button>
+            <button id="gallerySelectAllBtn" class="btn-ghost-sm" hidden>全选</button>
+            <button id="galleryDeleteSelBtn" class="btn-danger-sm" hidden>删除选中 (0)</button>
+            <button id="galleryCancelSelBtn" class="btn-ghost-sm" hidden>取消</button>
+            <button id="refreshGalleryBtn" class="icon-btn" title="刷新">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="gallery-grid" id="galleryGrid">
+          <div class="gallery-empty"><p>还没有生成任何图片</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 背景库 tab -->
+    <section class="tab-panel asset-lib-tab" id="tab-backgrounds">
+      <div class="panel asset-lib-wrap">
+        <div class="asset-lib-head">
+          <div>
+            <h2>背景库</h2>
+            <p class="asset-lib-sub">点击任意背景 → 加入可编辑的 <b>Prompt 草稿</b>（不会直接生图，可改后再生成）。</p>
+          </div>
+          <button class="btn-ghost-accent" id="bgRandomBtn">🎲 随机灵感</button>
+        </div>
+        <div class="asset-lib-toolbar">
+          <div class="search-box">
+            <svg class="search-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="bgSearch" placeholder="搜索背景名称 / 关键词 / 标签" autocomplete="off" />
+          </div>
+          <span class="asset-lib-count" id="bgCount"></span>
+        </div>
+        <div class="asset-filterbar" id="bgFilters"></div>
+        <div class="asset-list" id="bgList"></div>
+      </div>
+    </section>
+
+    <!-- 服装库 tab -->
+    <section class="tab-panel asset-lib-tab" id="tab-outfits">
+      <div class="panel asset-lib-wrap">
+        <div class="asset-lib-head">
+          <div>
+            <h2>服装库</h2>
+            <p class="asset-lib-sub">点击任意服装 → 加入可编辑的 <b>Prompt 草稿</b>（时尚摄影措辞，不会直接生图）。</p>
+          </div>
+          <button class="btn-ghost-accent" id="outfitRandomBtn">🎲 随机灵感</button>
+        </div>
+        <div class="asset-lib-toolbar">
+          <div class="search-box">
+            <svg class="search-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="outfitSearch" placeholder="搜索服装名称 / 关键词 / 标签" autocomplete="off" />
+          </div>
+          <span class="asset-lib-count" id="outfitCount"></span>
+        </div>
+        <div class="asset-filterbar" id="outfitFilters"></div>
+        <div class="asset-list" id="outfitList"></div>
+      </div>
+    </section>
+
+    <!-- 上传 tab（保留，供逻辑使用） -->
+    <section class="tab-panel" id="tab-upload">
+      <div class="panel upload-wrap">
+        <h2>上传参考照片</h2>
+        <p class="upload-hint">上传照片用于模板生成和换脸功能</p>
+        <div class="upload-dropzone" id="uploadDropzone2">
+          <p>请在“生成设置”面板中上传参考图</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 模特库 tab -->
+    <section class="tab-panel models-tab" id="tab-models">
+      <div class="panel models-wrap">
+        <div class="models-head">
+          <div>
+            <h2>模特库</h2>
+            <p class="models-sub">管理可复用的专属模特：绑定参考脸图 + 一致性提示词，保证多次生成同一人。</p>
+          </div>
+          <button class="btn-primary" id="newModelBtn">＋ 新建模特</button>
+        </div>
+        <div class="models-toolbar">
+          <div class="search-box">
+            <svg class="search-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" id="modelSearch" placeholder="搜索模特名称 / 标签" autocomplete="off" />
+          </div>
+          <button class="btn-ghost-accent" id="randomModelBtn">🎲 随机模特生成</button>
+        </div>
+        <div class="models-grid" id="modelsGrid"></div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- 新建/编辑模特弹窗 -->
+  <div class="modal-overlay hidden" id="modelModal">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="modelModalTitle">新建模特</h3>
+        <button class="icon-btn" id="modelModalClose" aria-label="关闭">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="field">
+          <span class="field-label">参考图 <small>（必填 · 建议半身/全身照，仅脸部特写无法保持身材）</small></span>
+          <div class="dropzone" id="modelRefDrop">
+            <img id="modelRefPreview" class="model-ref-preview hidden" alt="参考脸" />
+            <div id="modelRefPlaceholder">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+              <p>点击上传模特参考图（脸+身材）</p>
+            </div>
+            <input type="file" id="modelRefInput" accept="image/*" hidden />
+          </div>
+        </div>
+        <div class="grid2">
+          <div class="field"><span class="field-label">模特名称</span><input type="text" id="modelName" maxlength="40" placeholder="如：CC 模特" /></div>
+          <div class="field"><span class="field-label">风格标签 <small>（逗号分隔）</small></span><input type="text" id="modelTags" maxlength="120" placeholder="韩系, 清纯, 气质" /></div>
+        </div>
+        <div class="field">
+          <span class="field-label">身份提示词块 <small>（自动注入：保持同一人脸+身材，可补充体型如“高挑纤细、长腿”）</small></span>
+          <textarea id="modelIdentityPrompt" rows="2"></textarea>
+        </div>
+        <div class="field">
+          <span class="field-label">负面提示词块 <small>（自动注入，防止换脸）</small></span>
+          <textarea id="modelNegativePrompt" rows="2"></textarea>
+        </div>
+      </div>
+      <div class="modal-foot">
+        <button class="btn-ghost" id="modelModalCancel">取消</button>
+        <button class="btn-primary" id="modelModalSave">保存模特</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 旧控制栏：保留为隐藏桩，供 app.js 的 expand/collapse 逻辑安全调用 -->
+  <div class="legacy-stub" id="controlBar" aria-hidden="true">
+    <div id="controlCollapsed">
+      <button id="templateChip"><span id="templateChipLabel"></span></button>
+      <input id="promptInline" type="text" />
+      <button id="generateBtn"></button>
+    </div>
+    <div id="controlExpanded" class="hidden">
+      <button id="expandCloseBtn"></button>
+    </div>
+  </div>
+
+  <!-- 批量操作栏 -->
+  <div class="batch-bar hidden" id="batchBar">
+    <span class="batch-count" id="batchCount">已选 0 个</span>
+    <div class="batch-actions">
+      <button class="btn-ghost" id="batchClearBtn">清空</button>
+      <button class="btn-primary" id="batchGenerateBtn">批量生成</button>
+    </div>
+  </div>
+
+  <!-- 助手重新打开浮钮（助手收起时显示） -->
+  <button class="assistant-fab hidden" id="assistantReopen" title="打开 AI 智能体" aria-label="打开 AI 智能体">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+  </button>
+
+  <!-- 灯箱 -->
+  <div class="lightbox hidden" id="lightbox">
+    <div class="lightbox-backdrop" id="lightboxBackdrop"></div>
+    <img class="lightbox-img" id="lightboxImg" alt="" />
+    <button class="lightbox-close" id="lightboxClose">×</button>
+  </div>
+
+  <script type="module" src="app.js"></script>
+  <script type="module" src="chat.js"></script>
+</body>
+</html>

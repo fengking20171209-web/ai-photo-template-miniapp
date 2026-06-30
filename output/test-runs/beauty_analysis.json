@@ -1,0 +1,36 @@
+﻿{
+    "task_id":  "test_beauty_analysis",
+    "status":  "completed",
+    "template":  {
+                     "template_id":  "beauty_analysis",
+                     "category":  "形象分析",
+                     "title":  "个人形象分析图卡",
+                     "ratio":  "4:5",
+                     "style":  "高级信息图卡"
+                 },
+    "image_request":  {
+                          "provider":  "mock",
+                          "dry_run":  true,
+                          "request_body":  {
+                                               "prompt":  "銆愭ā鏉垮悕绉般€?个人形象分析图卡\n\n銆愬垎绫汇€?形象分析\n\n銆愮敾骞呫€?4:5\n\n銆愰鏍笺€?高级信息图卡\n\n銆愮敓鎴愮洰鏍囥€?保留用户真实五官的个人形象分析图卡\n\n銆愯劯閮ㄤ繚鐪熴€?保留脸型、肤色、五官，不过度修图\n\n銆愭湇瑁呴€犲瀷銆?简洁高级的日常服装\n\n銆愬満鏅幆澧冦€?高级米白色背景，图卡排版\n\n銆愬厜褰辨皼鍥淬€?柔和自然光，面部轮廓清晰\n\n銆愰暅澶存瀯鍥俱€?多宫格：发型、妆容、色彩、珠宝对比\n\n銆愮敾璐ㄨ姹傘€?清晰中文标签，干净高级\n\n銆愬晢涓氱敤閫斻€?适合形象咨询报告、小红书笔记封面和付费图卡\n\n銆愬畨鍏ㄤ笌鍝佽川瑕佹眰銆?淇濈暀鐢ㄦ埛鐪熷疄浜斿畼銆佽劯鍨嬨€佽偆鑹诧紝涓嶈杩囧害纾ㄧ毊锛屼笉瑕佷綆淇楋紝涓嶈瑁搁湶锛屼笉瑕佺敓鎴愬じ寮犺韩浣撴瘮渚嬶紝鏈嶈瀹屾暣寰椾綋锛屾暣浣撻珮绾с€佸共鍑€銆佸晢涓氬彲鐢ㄣ€?\n銆愯礋闈㈡彁绀恒€?错字, 乱码, 过度修图, 网红脸, 杂乱排版",
+                                               "negative_prompt":  "错字, 乱码, 过度修图, 网红脸, 杂乱排版",
+                                               "ratio":  "4:5",
+                                               "quality":  "high",
+                                               "face_strength":  0.85,
+                                               "output_count":  1
+                                           }
+                      },
+    "image_response":  {
+                           "provider_task_id":  "mock_beauty_analysis",
+                           "image_urls":  [
+
+                                          ],
+                           "raw":  {
+                                       "mode":  "mock",
+                                       "message":  "No real image API was called."
+                                   }
+                       },
+    "errors":  [
+
+               ]
+}

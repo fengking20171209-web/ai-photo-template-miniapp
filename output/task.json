@@ -1,0 +1,25 @@
+{
+  "task_id": "task_ancient_sword_heroine_20260601084538",
+  "created_at": "2026-06-01T08:45:38.413Z",
+  "status": "api_reserved",
+  "template": {
+    "template_id": "ancient_sword_heroine",
+    "category": "古风美女",
+    "title": "武侠侠女",
+    "ratio": "4:5",
+    "style": "真人武侠古风写真"
+  },
+  "prompt_file": "D:\\Projects\\ai-photo-template-miniapp\\output\\prompt.txt",
+  "image_request": {
+    "provider": "reserved",
+    "will_call_api": false,
+    "request_body": {
+      "prompt": "【模板名称】\n武侠侠女\n\n【分类】\n古风美女\n\n【画幅】\n4:5\n\n【风格】\n真人武侠古风写真\n\n【生成目标】\n一位保留用户真实五官的东方女性，武侠侠女主题造型，英气飒爽气质\n\n【脸部保真】\n保留原始脸型、五官比例、肤色和眼神特征，妆容清淡自然，眉宇间英气不改身份感\n\n【服装造型】\n素白或青灰色侠客服，束腰设计，轻纱外披随风飘动，手持长剑，简约发髻配玉簪\n\n【场景环境】\n竹林深处，薄雾缭绕，青石小径，远处山峦隐现，竹叶飘落\n\n【光影氛围】\n柔和自然光透过竹叶洒落，清冷氛围，电影级浅景深，面部清晰自然\n\n【镜头构图】\n半身至全身肖像，4:5比例，武侠风格动态构图，背景竹林虚化\n\n【画质要求】\n高清细节，真实皮肤质感，面料飘动自然，干净高级\n\n【商业用途】\n适合社交媒体头像、封面图和古风写真套图预览\n\n【安全与品质要求】\n保留用户真实五官、脸型、肤色，不要过度磨皮，不要低俗，不要裸露，不要生成夸张身体比例，服装完整得体，整体高级、干净、商业可用。\n\n【负面提示】\n过度磨皮, 网红脸, 低俗, 裸露, 夸张胸部, 动漫化过强, 现代服装",
+      "negative_prompt": "过度磨皮, 网红脸, 低俗, 裸露, 夸张胸部, 动漫化过强, 现代服装",
+      "ratio": "4:5",
+      "quality": "high",
+      "face_strength": 0.78,
+      "output_count": 1
+    }
+  }
+}

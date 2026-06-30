@@ -1,0 +1,9712 @@
+[
+ {
+  "id": "cl_001",
+  "name": "白色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_002",
+  "name": "黑色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_003",
+  "name": "红色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_004",
+  "name": "酒红色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_005",
+  "name": "藏蓝色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_006",
+  "name": "粉色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_007",
+  "name": "浅紫色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_008",
+  "name": "米色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_009",
+  "name": "墨绿色牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_010",
+  "name": "香槟金牛仔外套搭配T恤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "牛仔",
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold denim jacket with t-shirt",
+   "denim",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_011",
+  "name": "白色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_012",
+  "name": "黑色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_013",
+  "name": "红色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_014",
+  "name": "酒红色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_015",
+  "name": "藏蓝色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_016",
+  "name": "粉色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_017",
+  "name": "浅紫色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_018",
+  "name": "米色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_019",
+  "name": "墨绿色oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_020",
+  "name": "香槟金oversize 卫衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "街头"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold oversized hoodie",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_021",
+  "name": "白色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "white knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_022",
+  "name": "黑色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "black knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_023",
+  "name": "红色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "red knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_024",
+  "name": "酒红色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "burgundy knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_025",
+  "name": "藏蓝色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "navy blue knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_026",
+  "name": "粉色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "soft pink knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_027",
+  "name": "浅紫色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "lavender knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_028",
+  "name": "米色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "beige knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_029",
+  "name": "墨绿色针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "emerald green knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_030",
+  "name": "香槟金针织开衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "champagne gold knit cardigan",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_031",
+  "name": "白色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "white casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_032",
+  "name": "黑色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "black casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_033",
+  "name": "红色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "red casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_034",
+  "name": "酒红色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "burgundy casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_035",
+  "name": "藏蓝色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "navy blue casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_036",
+  "name": "粉色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "soft pink casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_037",
+  "name": "浅紫色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "lavender casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_038",
+  "name": "米色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "beige casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_039",
+  "name": "墨绿色休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "emerald green casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_040",
+  "name": "香槟金休闲风衣",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "风衣布"
+  ],
+  "fashion_keywords": [
+   "champagne gold casual trench coat",
+   "gabardine",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_041",
+  "name": "白色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_042",
+  "name": "黑色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_043",
+  "name": "红色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_044",
+  "name": "酒红色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_045",
+  "name": "藏蓝色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_046",
+  "name": "粉色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_047",
+  "name": "浅紫色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_048",
+  "name": "米色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_049",
+  "name": "墨绿色法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_050",
+  "name": "香槟金法式衬衫",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "优雅",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold french blouse",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_051",
+  "name": "白色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "white sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_052",
+  "name": "黑色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "black sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_053",
+  "name": "红色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "red sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_054",
+  "name": "酒红色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "burgundy sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_055",
+  "name": "藏蓝色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "navy blue sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_056",
+  "name": "粉色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "soft pink sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_057",
+  "name": "浅紫色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "lavender sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_058",
+  "name": "米色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "beige sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_059",
+  "name": "墨绿色毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "emerald green sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_060",
+  "name": "香槟金毛衣配半裙",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "甜美",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "champagne gold sweater with skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_061",
+  "name": "白色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_062",
+  "name": "黑色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_063",
+  "name": "红色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_064",
+  "name": "酒红色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_065",
+  "name": "藏蓝色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_066",
+  "name": "粉色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_067",
+  "name": "浅紫色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_068",
+  "name": "米色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_069",
+  "name": "墨绿色工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_070",
+  "name": "香槟金工装连体裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "街头",
+   "中性"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold utility jumpsuit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_071",
+  "name": "白色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "white overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_072",
+  "name": "黑色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "black overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_073",
+  "name": "红色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "red overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_074",
+  "name": "酒红色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "burgundy overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_075",
+  "name": "藏蓝色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "navy blue overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_076",
+  "name": "粉色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "soft pink overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_077",
+  "name": "浅紫色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "lavender overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_078",
+  "name": "米色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "beige overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_079",
+  "name": "墨绿色背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "emerald green overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_080",
+  "name": "香槟金背带裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "可爱",
+   "休闲"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "champagne gold overall dungarees",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_081",
+  "name": "白色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "white floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_082",
+  "name": "黑色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "black floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_083",
+  "name": "红色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "red floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_084",
+  "name": "酒红色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "burgundy floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_085",
+  "name": "藏蓝色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "navy blue floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_086",
+  "name": "粉色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "soft pink floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_087",
+  "name": "浅紫色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "lavender floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_088",
+  "name": "米色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "beige floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_089",
+  "name": "墨绿色碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "emerald green floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_090",
+  "name": "香槟金碎花连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "甜美",
+   "清新"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "champagne gold floral midi dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_091",
+  "name": "白色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "white silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_092",
+  "name": "黑色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "black silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_093",
+  "name": "红色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "red silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_094",
+  "name": "酒红色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "burgundy silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_095",
+  "name": "藏蓝色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "navy blue silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_096",
+  "name": "粉色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "soft pink silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_097",
+  "name": "浅紫色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "lavender silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_098",
+  "name": "米色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "beige silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_099",
+  "name": "墨绿色真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "emerald green silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_100",
+  "name": "香槟金真丝吊带裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "champagne gold silk slip dress",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_101",
+  "name": "白色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "white satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_102",
+  "name": "黑色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "black satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_103",
+  "name": "红色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "red satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_104",
+  "name": "酒红色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "burgundy satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_105",
+  "name": "藏蓝色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "navy blue satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_106",
+  "name": "粉色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "soft pink satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_107",
+  "name": "浅紫色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "lavender satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_108",
+  "name": "米色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "beige satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_109",
+  "name": "墨绿色缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "emerald green satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_110",
+  "name": "香槟金缎面长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "champagne gold satin maxi dress",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_111",
+  "name": "白色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "white little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_112",
+  "name": "黑色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "black little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_113",
+  "name": "红色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "red little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_114",
+  "name": "酒红色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "burgundy little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_115",
+  "name": "藏蓝色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "navy blue little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_116",
+  "name": "粉色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "soft pink little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_117",
+  "name": "浅紫色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "lavender little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_118",
+  "name": "米色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "beige little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_119",
+  "name": "墨绿色小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "emerald green little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_120",
+  "name": "香槟金小黑裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "champagne gold little black dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_121",
+  "name": "白色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "white knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_122",
+  "name": "黑色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "black knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_123",
+  "name": "红色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "red knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_124",
+  "name": "酒红色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "burgundy knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_125",
+  "name": "藏蓝色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "navy blue knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_126",
+  "name": "粉色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "soft pink knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_127",
+  "name": "浅紫色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "lavender knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_128",
+  "name": "米色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "beige knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_129",
+  "name": "墨绿色针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "emerald green knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_130",
+  "name": "香槟金针织连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "champagne gold knit bodycon dress",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_131",
+  "name": "白色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "white lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_132",
+  "name": "黑色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "black lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_133",
+  "name": "红色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "red lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_134",
+  "name": "酒红色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "burgundy lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_135",
+  "name": "藏蓝色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "navy blue lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_136",
+  "name": "粉色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "soft pink lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_137",
+  "name": "浅紫色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "lavender lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_138",
+  "name": "米色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "beige lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_139",
+  "name": "墨绿色蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "emerald green lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_140",
+  "name": "香槟金蕾丝连衣裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "champagne gold lace detail dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_141",
+  "name": "白色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_142",
+  "name": "黑色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_143",
+  "name": "红色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_144",
+  "name": "酒红色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_145",
+  "name": "藏蓝色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_146",
+  "name": "粉色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_147",
+  "name": "浅紫色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_148",
+  "name": "米色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_149",
+  "name": "墨绿色波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_150",
+  "name": "香槟金波点复古裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "复古",
+   "甜美"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold polka dot retro dress",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_151",
+  "name": "白色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "white flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_152",
+  "name": "黑色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "black flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_153",
+  "name": "红色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "red flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_154",
+  "name": "酒红色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "burgundy flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_155",
+  "name": "藏蓝色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "navy blue flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_156",
+  "name": "粉色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "soft pink flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_157",
+  "name": "浅紫色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "lavender flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_158",
+  "name": "米色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "beige flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_159",
+  "name": "墨绿色白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "emerald green flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_160",
+  "name": "香槟金白色长裙",
+  "category": [
+   "连衣裙"
+  ],
+  "style_tags": [
+   "清纯",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "champagne gold flowing white dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_161",
+  "name": "白色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "white evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_162",
+  "name": "黑色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "black evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_163",
+  "name": "红色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "red evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_164",
+  "name": "酒红色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "burgundy evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_165",
+  "name": "藏蓝色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "navy blue evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_166",
+  "name": "粉色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "soft pink evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_167",
+  "name": "浅紫色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "lavender evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_168",
+  "name": "米色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "beige evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_169",
+  "name": "墨绿色晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "emerald green evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_170",
+  "name": "香槟金晚礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "champagne gold evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_171",
+  "name": "白色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "white mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_172",
+  "name": "黑色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "black mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_173",
+  "name": "红色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "red mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_174",
+  "name": "酒红色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "burgundy mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_175",
+  "name": "藏蓝色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "navy blue mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_176",
+  "name": "粉色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "soft pink mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_177",
+  "name": "浅紫色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "lavender mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_178",
+  "name": "米色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "beige mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_179",
+  "name": "墨绿色鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "emerald green mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_180",
+  "name": "香槟金鱼尾礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "champagne gold mermaid evening gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_181",
+  "name": "白色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "white sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_182",
+  "name": "黑色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "black sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_183",
+  "name": "红色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "red sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_184",
+  "name": "酒红色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "burgundy sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_185",
+  "name": "藏蓝色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "navy blue sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_186",
+  "name": "粉色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "soft pink sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_187",
+  "name": "浅紫色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "lavender sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_188",
+  "name": "米色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "beige sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_189",
+  "name": "墨绿色亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "emerald green sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_190",
+  "name": "香槟金亮片礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "派对",
+   "华丽"
+  ],
+  "fabric_tags": [
+   "亮片"
+  ],
+  "fashion_keywords": [
+   "champagne gold sequin gown",
+   "sequin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_191",
+  "name": "白色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "white velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_192",
+  "name": "黑色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "black velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_193",
+  "name": "红色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "red velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_194",
+  "name": "酒红色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "burgundy velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_195",
+  "name": "藏蓝色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "navy blue velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_196",
+  "name": "粉色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "soft pink velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_197",
+  "name": "浅紫色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "lavender velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_198",
+  "name": "米色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "beige velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_199",
+  "name": "墨绿色丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "emerald green velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_200",
+  "name": "香槟金丝绒礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "复古",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "丝绒"
+  ],
+  "fashion_keywords": [
+   "champagne gold velvet evening dress",
+   "velvet",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_201",
+  "name": "白色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "white off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_202",
+  "name": "黑色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "black off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_203",
+  "name": "红色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "red off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_204",
+  "name": "酒红色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "burgundy off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_205",
+  "name": "藏蓝色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "navy blue off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_206",
+  "name": "粉色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "soft pink off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_207",
+  "name": "浅紫色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "lavender off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_208",
+  "name": "米色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "beige off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_209",
+  "name": "墨绿色一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "emerald green off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_210",
+  "name": "香槟金一字肩礼服",
+  "category": [
+   "礼服"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "champagne gold off-shoulder gown",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_211",
+  "name": "白色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "white tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_212",
+  "name": "黑色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "black tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_213",
+  "name": "红色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "red tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_214",
+  "name": "酒红色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "burgundy tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_215",
+  "name": "藏蓝色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "navy blue tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_216",
+  "name": "粉色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "soft pink tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_217",
+  "name": "浅紫色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "lavender tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_218",
+  "name": "米色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "beige tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_219",
+  "name": "墨绿色职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "emerald green tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_220",
+  "name": "香槟金职业西装套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "champagne gold tailored suit set",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_221",
+  "name": "白色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "white wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_222",
+  "name": "黑色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "black wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_223",
+  "name": "红色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "red wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_224",
+  "name": "酒红色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "burgundy wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_225",
+  "name": "藏蓝色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "navy blue wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_226",
+  "name": "粉色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "soft pink wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_227",
+  "name": "浅紫色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "lavender wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_228",
+  "name": "米色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "beige wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_229",
+  "name": "墨绿色阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "emerald green wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_230",
+  "name": "香槟金阔腿裤套装",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "中性",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "champagne gold wide-leg trouser suit",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_231",
+  "name": "白色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_232",
+  "name": "黑色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_233",
+  "name": "红色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_234",
+  "name": "酒红色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_235",
+  "name": "藏蓝色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_236",
+  "name": "粉色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_237",
+  "name": "浅紫色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_238",
+  "name": "米色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_239",
+  "name": "墨绿色衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_240",
+  "name": "香槟金衬衫配铅笔裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "成熟",
+   "御姐"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold shirt with pencil skirt",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_241",
+  "name": "白色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "white blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_242",
+  "name": "黑色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "black blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_243",
+  "name": "红色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "red blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_244",
+  "name": "酒红色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "burgundy blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_245",
+  "name": "藏蓝色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "navy blue blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_246",
+  "name": "粉色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "soft pink blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_247",
+  "name": "浅紫色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "lavender blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_248",
+  "name": "米色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "beige blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_249",
+  "name": "墨绿色西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "emerald green blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_250",
+  "name": "香槟金西装连衣裙",
+  "category": [
+   "职业装"
+  ],
+  "style_tags": [
+   "御姐",
+   "中性"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "champagne gold blazer dress",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_251",
+  "name": "白色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "white techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_252",
+  "name": "黑色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "black techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_253",
+  "name": "红色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "red techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_254",
+  "name": "酒红色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "burgundy techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_255",
+  "name": "藏蓝色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "navy blue techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_256",
+  "name": "粉色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "soft pink techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_257",
+  "name": "浅紫色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "lavender techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_258",
+  "name": "米色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "beige techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_259",
+  "name": "墨绿色机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "emerald green techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_260",
+  "name": "香槟金机能风外套",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "未来"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "champagne gold techwear jacket",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_261",
+  "name": "白色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "white leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_262",
+  "name": "黑色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "black leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_263",
+  "name": "红色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "red leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_264",
+  "name": "酒红色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "burgundy leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_265",
+  "name": "藏蓝色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "navy blue leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_266",
+  "name": "粉色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "soft pink leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_267",
+  "name": "浅紫色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "lavender leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_268",
+  "name": "米色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "beige leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_269",
+  "name": "墨绿色皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "emerald green leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_270",
+  "name": "香槟金皮夹克",
+  "category": [
+   "街头"
+  ],
+  "style_tags": [
+   "街头",
+   "酷感"
+  ],
+  "fabric_tags": [
+   "皮革"
+  ],
+  "fashion_keywords": [
+   "champagne gold leather biker jacket",
+   "leather",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_271",
+  "name": "白色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "white athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_272",
+  "name": "黑色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "black athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_273",
+  "name": "红色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "red athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_274",
+  "name": "酒红色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "burgundy athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_275",
+  "name": "藏蓝色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "navy blue athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_276",
+  "name": "粉色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "soft pink athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_277",
+  "name": "浅紫色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "lavender athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_278",
+  "name": "米色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "beige athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_279",
+  "name": "墨绿色运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "emerald green athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_280",
+  "name": "香槟金运动套装",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "champagne gold athleisure tracksuit",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_281",
+  "name": "白色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "white yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_282",
+  "name": "黑色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "black yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_283",
+  "name": "红色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "red yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_284",
+  "name": "酒红色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "burgundy yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_285",
+  "name": "藏蓝色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "navy blue yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_286",
+  "name": "粉色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "soft pink yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_287",
+  "name": "浅紫色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "lavender yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_288",
+  "name": "米色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "beige yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_289",
+  "name": "墨绿色瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "emerald green yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_290",
+  "name": "香槟金瑜伽运动服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "champagne gold yoga activewear set",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_291",
+  "name": "白色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "white cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_292",
+  "name": "黑色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "black cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_293",
+  "name": "红色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "red cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_294",
+  "name": "酒红色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "burgundy cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_295",
+  "name": "藏蓝色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "navy blue cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_296",
+  "name": "粉色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "soft pink cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_297",
+  "name": "浅紫色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "lavender cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_298",
+  "name": "米色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "beige cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_299",
+  "name": "墨绿色骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "emerald green cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_300",
+  "name": "香槟金骑行服",
+  "category": [
+   "运动"
+  ],
+  "style_tags": [
+   "运动",
+   "中性"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "champagne gold cycling outfit",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_301",
+  "name": "白色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_302",
+  "name": "黑色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_303",
+  "name": "红色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_304",
+  "name": "酒红色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_305",
+  "name": "藏蓝色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_306",
+  "name": "粉色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_307",
+  "name": "浅紫色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_308",
+  "name": "米色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_309",
+  "name": "墨绿色学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_310",
+  "name": "香槟金学院风 JK 制服",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "清纯"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold preppy school-uniform fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_311",
+  "name": "白色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_312",
+  "name": "黑色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_313",
+  "name": "红色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_314",
+  "name": "酒红色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_315",
+  "name": "藏蓝色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_316",
+  "name": "粉色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_317",
+  "name": "浅紫色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_318",
+  "name": "米色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_319",
+  "name": "墨绿色水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_320",
+  "name": "香槟金水手服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "学院",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold sailor-collar fashion outfit",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_321",
+  "name": "白色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "white flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_322",
+  "name": "黑色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "black flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_323",
+  "name": "红色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "red flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_324",
+  "name": "酒红色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "burgundy flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_325",
+  "name": "藏蓝色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "navy blue flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_326",
+  "name": "粉色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "soft pink flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_327",
+  "name": "浅紫色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "lavender flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_328",
+  "name": "米色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "beige flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_329",
+  "name": "墨绿色空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "emerald green flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_330",
+  "name": "香槟金空乘制服时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "西装料"
+  ],
+  "fashion_keywords": [
+   "champagne gold flight-attendant inspired fashion",
+   "tailored wool",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_331",
+  "name": "白色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_332",
+  "name": "黑色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_333",
+  "name": "红色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_334",
+  "name": "酒红色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_335",
+  "name": "藏蓝色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_336",
+  "name": "粉色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_337",
+  "name": "浅紫色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_338",
+  "name": "米色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_339",
+  "name": "墨绿色护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_340",
+  "name": "香槟金护士风时装",
+  "category": [
+   "制服"
+  ],
+  "style_tags": [
+   "职业",
+   "可爱"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold nurse-inspired fashion costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_341",
+  "name": "白色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "white bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_342",
+  "name": "黑色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "black bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_343",
+  "name": "红色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "red bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_344",
+  "name": "酒红色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "burgundy bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_345",
+  "name": "藏蓝色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "navy blue bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_346",
+  "name": "粉色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "soft pink bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_347",
+  "name": "浅紫色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "lavender bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_348",
+  "name": "米色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "beige bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_349",
+  "name": "墨绿色兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "emerald green bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_350",
+  "name": "香槟金兔女郎风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "派对",
+   "复古"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "champagne gold bunny-inspired fashion bodysuit, editorial costume",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_351",
+  "name": "白色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_352",
+  "name": "黑色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_353",
+  "name": "红色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_354",
+  "name": "酒红色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_355",
+  "name": "藏蓝色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_356",
+  "name": "粉色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_357",
+  "name": "浅紫色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_358",
+  "name": "米色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_359",
+  "name": "墨绿色女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_360",
+  "name": "香槟金女仆风时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "可爱",
+   "复古"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold maid-inspired ruffled fashion dress, editorial costume",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_361",
+  "name": "白色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "white lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_362",
+  "name": "黑色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "black lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_363",
+  "name": "红色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "red lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_364",
+  "name": "酒红色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "burgundy lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_365",
+  "name": "藏蓝色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "navy blue lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_366",
+  "name": "粉色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "soft pink lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_367",
+  "name": "浅紫色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "lavender lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_368",
+  "name": "米色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "beige lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_369",
+  "name": "墨绿色洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "emerald green lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_370",
+  "name": "香槟金洛丽塔时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "甜美",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "champagne gold lolita fashion dress",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_371",
+  "name": "白色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "white cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_372",
+  "name": "黑色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "black cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_373",
+  "name": "红色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "red cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_374",
+  "name": "酒红色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "burgundy cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_375",
+  "name": "藏蓝色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "navy blue cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_376",
+  "name": "粉色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "soft pink cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_377",
+  "name": "浅紫色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "lavender cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_378",
+  "name": "米色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "beige cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_379",
+  "name": "墨绿色赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "emerald green cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_380",
+  "name": "香槟金赛博朋克造型",
+  "category": [
+   "Cosplay"
+  ],
+  "style_tags": [
+   "未来",
+   "街头"
+  ],
+  "fabric_tags": [
+   "机能面料"
+  ],
+  "fashion_keywords": [
+   "champagne gold cyberpunk-styled fashion outfit",
+   "technical fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_381",
+  "name": "白色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "white modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_382",
+  "name": "黑色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "black modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_383",
+  "name": "红色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "red modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_384",
+  "name": "酒红色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "burgundy modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_385",
+  "name": "藏蓝色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "navy blue modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_386",
+  "name": "粉色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "soft pink modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_387",
+  "name": "浅紫色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "lavender modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_388",
+  "name": "米色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "beige modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_389",
+  "name": "墨绿色旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "emerald green modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_390",
+  "name": "香槟金旗袍改良时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "真丝"
+  ],
+  "fashion_keywords": [
+   "champagne gold modern qipao-inspired fashion",
+   "silk",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_391",
+  "name": "白色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_392",
+  "name": "黑色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_393",
+  "name": "红色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_394",
+  "name": "酒红色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_395",
+  "name": "藏蓝色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_396",
+  "name": "粉色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_397",
+  "name": "浅紫色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_398",
+  "name": "米色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_399",
+  "name": "墨绿色和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_400",
+  "name": "香槟金和风浴衣时装",
+  "category": [
+   "主题装扮"
+  ],
+  "style_tags": [
+   "复古",
+   "清新"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold yukata-inspired fashion",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_401",
+  "name": "白色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "white lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_402",
+  "name": "黑色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "black lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_403",
+  "name": "红色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "red lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_404",
+  "name": "酒红色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "burgundy lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_405",
+  "name": "藏蓝色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "navy blue lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_406",
+  "name": "粉色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "soft pink lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_407",
+  "name": "浅紫色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "lavender lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_408",
+  "name": "米色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "beige lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_409",
+  "name": "墨绿色蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "emerald green lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_410",
+  "name": "香槟金蕾丝内衣风造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "champagne gold lingerie-inspired fashion, lace detailing, editorial styling",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_411",
+  "name": "白色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "white satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_412",
+  "name": "黑色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "black satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_413",
+  "name": "红色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "red satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_414",
+  "name": "酒红色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "burgundy satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_415",
+  "name": "藏蓝色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "navy blue satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_416",
+  "name": "粉色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "soft pink satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_417",
+  "name": "浅紫色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "lavender satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_418",
+  "name": "米色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "beige satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_419",
+  "name": "墨绿色缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "emerald green satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_420",
+  "name": "香槟金缎面睡裙造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "优雅",
+   "性感"
+  ],
+  "fabric_tags": [
+   "缎面"
+  ],
+  "fashion_keywords": [
+   "champagne gold satin slip loungewear, editorial styling",
+   "satin",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_421",
+  "name": "白色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "white editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_422",
+  "name": "黑色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "black editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_423",
+  "name": "红色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "red editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_424",
+  "name": "酒红色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "burgundy editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_425",
+  "name": "藏蓝色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "navy blue editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_426",
+  "name": "粉色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "soft pink editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_427",
+  "name": "浅紫色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "lavender editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_428",
+  "name": "米色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "beige editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_429",
+  "name": "墨绿色透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "emerald green editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_430",
+  "name": "香槟金透视纱质造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "梦幻"
+  ],
+  "fabric_tags": [
+   "纱质"
+  ],
+  "fashion_keywords": [
+   "champagne gold editorial sheer fabric styling, layered tulle",
+   "sheer tulle",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_431",
+  "name": "白色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "white high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_432",
+  "name": "黑色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "black high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_433",
+  "name": "红色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "red high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_434",
+  "name": "酒红色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "burgundy high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_435",
+  "name": "藏蓝色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "navy blue high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_436",
+  "name": "粉色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "soft pink high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_437",
+  "name": "浅紫色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "lavender high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_438",
+  "name": "米色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "beige high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_439",
+  "name": "墨绿色高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "emerald green high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_440",
+  "name": "香槟金高级内衣美学造型",
+  "category": [
+   "内衣风"
+  ],
+  "style_tags": [
+   "性感",
+   "成熟"
+  ],
+  "fabric_tags": [
+   "蕾丝"
+  ],
+  "fashion_keywords": [
+   "champagne gold high-fashion intimate wear aesthetic, editorial",
+   "lace fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_441",
+  "name": "白色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "white one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_442",
+  "name": "黑色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "black one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_443",
+  "name": "红色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "red one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_444",
+  "name": "酒红色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "burgundy one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_445",
+  "name": "藏蓝色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "navy blue one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_446",
+  "name": "粉色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "soft pink one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_447",
+  "name": "浅紫色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "lavender one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_448",
+  "name": "米色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "beige one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_449",
+  "name": "墨绿色连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "emerald green one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_450",
+  "name": "香槟金连体泳衣",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "运动",
+   "性感"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "champagne gold one-piece swimsuit fashion",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_451",
+  "name": "白色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "white bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_452",
+  "name": "黑色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "black bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_453",
+  "name": "红色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "red bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_454",
+  "name": "酒红色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "burgundy bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_455",
+  "name": "藏蓝色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "navy blue bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_456",
+  "name": "粉色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "soft pink bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_457",
+  "name": "浅紫色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "lavender bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_458",
+  "name": "米色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "beige bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_459",
+  "name": "墨绿色比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "emerald green bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_460",
+  "name": "香槟金比基尼时装",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "性感",
+   "活力"
+  ],
+  "fabric_tags": [
+   "弹力面料"
+  ],
+  "fashion_keywords": [
+   "champagne gold bikini fashion editorial",
+   "stretch fabric",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_461",
+  "name": "白色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "white beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_462",
+  "name": "黑色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "black beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_463",
+  "name": "红色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "red beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_464",
+  "name": "酒红色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "burgundy beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_465",
+  "name": "藏蓝色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "navy blue beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_466",
+  "name": "粉色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "soft pink beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_467",
+  "name": "浅紫色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "lavender beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_468",
+  "name": "米色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "beige beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_469",
+  "name": "墨绿色沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "emerald green beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_470",
+  "name": "香槟金沙滩罩衫",
+  "category": [
+   "泳装"
+  ],
+  "style_tags": [
+   "清新",
+   "度假"
+  ],
+  "fabric_tags": [
+   "雪纺"
+  ],
+  "fashion_keywords": [
+   "champagne gold beach cover-up dress",
+   "chiffon",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_471",
+  "name": "白色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "white cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_472",
+  "name": "黑色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "black cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_473",
+  "name": "红色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "red cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_474",
+  "name": "酒红色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "burgundy cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_475",
+  "name": "藏蓝色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "navy blue cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_476",
+  "name": "粉色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "soft pink cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_477",
+  "name": "浅紫色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "lavender cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_478",
+  "name": "米色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "beige cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_479",
+  "name": "墨绿色吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "emerald green cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_480",
+  "name": "香槟金吊带背心配牛仔裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "休闲",
+   "性感"
+  ],
+  "fabric_tags": [
+   "牛仔"
+  ],
+  "fashion_keywords": [
+   "champagne gold cami top with jeans",
+   "denim",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_481",
+  "name": "白色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "white off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_482",
+  "name": "黑色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "black off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_483",
+  "name": "红色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "red off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_484",
+  "name": "酒红色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "burgundy off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_485",
+  "name": "藏蓝色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "navy blue off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_486",
+  "name": "粉色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "soft pink off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_487",
+  "name": "浅紫色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "lavender off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_488",
+  "name": "米色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "beige off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_489",
+  "name": "墨绿色露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "emerald green off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_490",
+  "name": "香槟金露肩上衣配短裙",
+  "category": [
+   "派对"
+  ],
+  "style_tags": [
+   "甜美",
+   "性感"
+  ],
+  "fabric_tags": [
+   "针织"
+  ],
+  "fashion_keywords": [
+   "champagne gold off-shoulder top with mini skirt",
+   "knit",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_491",
+  "name": "白色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "white shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_492",
+  "name": "黑色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "black shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_493",
+  "name": "红色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "red shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_494",
+  "name": "酒红色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "burgundy shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_495",
+  "name": "藏蓝色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "navy blue shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_496",
+  "name": "粉色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "soft pink shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_497",
+  "name": "浅紫色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "lavender shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_498",
+  "name": "米色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "beige shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_499",
+  "name": "墨绿色衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "emerald green shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_500",
+  "name": "香槟金衬衫配西装短裤",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "中性",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "棉质"
+  ],
+  "fashion_keywords": [
+   "champagne gold shirt with tailored shorts",
+   "cotton",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_501",
+  "name": "白色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "white wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_502",
+  "name": "黑色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "black wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_503",
+  "name": "红色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "red wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_504",
+  "name": "酒红色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "burgundy wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_505",
+  "name": "藏蓝色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "navy blue wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_506",
+  "name": "粉色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "soft pink wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_507",
+  "name": "浅紫色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "lavender wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_508",
+  "name": "米色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "beige wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_509",
+  "name": "墨绿色毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "emerald green wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ },
+ {
+  "id": "cl_510",
+  "name": "香槟金毛呢大衣套装",
+  "category": [
+   "日常"
+  ],
+  "style_tags": [
+   "成熟",
+   "优雅"
+  ],
+  "fabric_tags": [
+   "毛呢"
+  ],
+  "fashion_keywords": [
+   "champagne gold wool coat ensemble",
+   "wool tweed",
+   "editorial fashion photography"
+  ]
+ }
+]

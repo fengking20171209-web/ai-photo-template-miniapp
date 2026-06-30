@@ -1,0 +1,29 @@
+version: "3.8"
+
+services:
+  node-api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.node
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./templates:/app/templates
+      - ./uploads:/app/uploads
+      - ./output:/app/output
+      - ./.env:/app/.env
+    environment:
+      - NODE_ENV=production
+
+  fastapi:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.python
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./templates:/app/templates
+      - ./uploads:/app/uploads
+      - ./.env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1

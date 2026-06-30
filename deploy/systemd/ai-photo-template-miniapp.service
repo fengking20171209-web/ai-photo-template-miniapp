@@ -1,0 +1,15 @@
+[Unit]
+Description=AI Photo Template Miniapp API
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/ai-photo-template-miniapp/current
+EnvironmentFile=/opt/ai-photo-template-miniapp/shared/env
+ExecStart=/usr/bin/npm run api
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

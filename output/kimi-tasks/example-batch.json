@@ -1,0 +1,14 @@
+[
+  {
+    "task_id": "analyze-templates",
+    "prompt": "分析 templates/ 目录下所有 JSON 模板文件，统计 category 分布、style 分布，并输出 Markdown 表格报告。"
+  },
+  {
+    "task_id": "review-code",
+    "prompt": "审查 backend/routers/templates.py 的代码质量，指出潜在的性能问题和安全风险，给出改进建议。"
+  },
+  {
+    "task_id": "optimize-prompts",
+    "prompt": "读取 data/prompts/ 下的所有 prompt 文件，评估每个 prompt 的质量，并按效果从好到差排序。"
+  }
+]

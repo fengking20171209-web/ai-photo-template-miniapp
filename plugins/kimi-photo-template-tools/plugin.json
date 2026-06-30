@@ -1,0 +1,67 @@
+{
+  "name": "kimi-photo-template-tools",
+  "version": "0.1.0",
+  "description": "Project tools for AI photo template miniapp: list templates, run smoke tests, check image env, and generate template catalog.",
+  "tools": [
+    {
+      "name": "list_templates",
+      "description": "List available AI photo templates in this project.",
+      "command": ["C:\\Users\\Aerc\\.local\\bin\\uv.exe", "run", "python", "scripts/template_tools.py", "list_templates"],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "description": "Project root path. Defaults to current working directory."
+          }
+        }
+      }
+    },
+    {
+      "name": "smoke_test_templates",
+      "description": "Run template structure and mock image-task smoke tests.",
+      "command": ["C:\\Users\\Aerc\\.local\\bin\\uv.exe", "run", "python", "scripts/template_tools.py", "smoke_test"],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "description": "Project root path. Defaults to current working directory."
+          },
+          "template_id": {
+            "type": "string",
+            "description": "Optional template_id to test a single template."
+          }
+        }
+      }
+    },
+    {
+      "name": "check_image_env",
+      "description": "Check local image API environment settings without printing secrets.",
+      "command": ["C:\\Users\\Aerc\\.local\\bin\\uv.exe", "run", "python", "scripts/template_tools.py", "check_image_env"],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "description": "Project root path. Defaults to current working directory."
+          }
+        }
+      }
+    },
+    {
+      "name": "generate_template_catalog",
+      "description": "Generate docs/template_catalog.md from templates/*.json.",
+      "command": ["C:\\Users\\Aerc\\.local\\bin\\uv.exe", "run", "python", "scripts/template_tools.py", "generate_catalog"],
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "project_root": {
+            "type": "string",
+            "description": "Project root path. Defaults to current working directory."
+          }
+        }
+      }
+    }
+  ]
+}

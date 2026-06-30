@@ -1,0 +1,36 @@
+﻿{
+    "task_id":  "test_noir_character_card",
+    "status":  "completed",
+    "template":  {
+                     "template_id":  "noir_character_card",
+                     "category":  "漫画角色",
+                     "title":  "NOIR ANGELS 角色卡",
+                     "ratio":  "4:5",
+                     "style":  "80年代日漫 noir 角色设定卡"
+                 },
+    "image_request":  {
+                          "provider":  "mock",
+                          "dry_run":  true,
+                          "request_body":  {
+                                               "prompt":  "銆愭ā鏉垮悕绉般€?NOIR ANGELS 角色卡\n\n銆愬垎绫汇€?漫画角色\n\n銆愮敾骞呫€?4:5\n\n銆愰鏍笺€?80年代日漫 noir 角色设定卡\n\n銆愮敓鎴愮洰鏍囥€?保留用户真实五官的 noir 漫画角色\n\n銆愯劯閮ㄤ繚鐪熴€?真实五官与半写实动漫风融合，保持身份识别度\n\n銆愭湇瑁呴€犲瀷銆?都市 noir 风格职业服装，黑色风衣，简洁配饰\n\n銆愬満鏅幆澧冦€?雨夜都市，霓虹灯，玻璃反光\n\n銆愬厜褰辨皼鍥淬€?青蓝霓虹，半脸阴影，电影感对比光\n\n銆愰暅澶存瀯鍥俱€?角色设定卡，正面、侧面、表情小图\n\n銆愮敾璐ㄨ姹傘€?高级漫画角色档案风格\n\n銆愬晢涓氱敤閫斻€?适合作为角色头像、IP设定卡和短视频封面\n\n銆愬畨鍏ㄤ笌鍝佽川瑕佹眰銆?淇濈暀鐢ㄦ埛鐪熷疄浜斿畼銆佽劯鍨嬨€佽偆鑹诧紝涓嶈杩囧害纾ㄧ毊锛屼笉瑕佷綆淇楋紝涓嶈瑁搁湶锛屼笉瑕佺敓鎴愬じ寮犺韩浣撴瘮渚嬶紝鏈嶈瀹屾暣寰椾綋锛屾暣浣撻珮绾с€佸共鍑€銆佸晢涓氬彲鐢ㄣ€?\n銆愯礋闈㈡彁绀恒€?低俗, 过度性感, AI网红脸, 幼态, 画面脏乱",
+                                               "negative_prompt":  "低俗, 过度性感, AI网红脸, 幼态, 画面脏乱",
+                                               "ratio":  "4:5",
+                                               "quality":  "high",
+                                               "face_strength":  0.68,
+                                               "output_count":  1
+                                           }
+                      },
+    "image_response":  {
+                           "provider_task_id":  "mock_noir_character_card",
+                           "image_urls":  [
+
+                                          ],
+                           "raw":  {
+                                       "mode":  "mock",
+                                       "message":  "No real image API was called."
+                                   }
+                       },
+    "errors":  [
+
+               ]
+}

@@ -1,0 +1,19 @@
+{
+  "task_id": "kt3775b6c046c2",
+  "ok": false,
+  "returncode": -1,
+  "prompt": "回复一个单词: OK",
+  "command": [
+    "C:\\Users\\Aerc\\.kimi-code\\bin\\kimi.exe",
+    "-p",
+    "回复一个单词: OK",
+    "--output-format",
+    "text"
+  ],
+  "stdout": "• 用户要求我回复一个单词：\"OK\"。这是一个简单的直接请求，不需要使用任何工具。",
+  "stdout_lines": [
+    "• 用户要求我回复一个单词：\"OK\"。这是一个简单的直接请求，不需要使用任何工具。"
+  ],
+  "result_file": "output\\kimi-tasks\\kt3775b6c046c2.json",
+  "log_file": "logs\\kimi-task-kt3775b6c046c2.log"
+}

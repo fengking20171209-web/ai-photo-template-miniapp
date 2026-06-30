@@ -1,0 +1,43 @@
+{
+  "template_id": "beauty_analysis",
+  "category": "形象分析",
+  "title": "个人形象分析图卡",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "高级信息图卡",
+  "scene": "米白色背景，杂志级排版，干净留白",
+  "clothing": "简洁针织上衣或白色衬衫",
+  "prompt_blocks": {
+    "subject": "保留用户真实五官的个人形象分析图卡",
+    "face": "保留脸型、肤色、五官，不过度修图",
+    "clothing": "简洁高级的日常服装",
+    "scene": "高级米白色背景，图卡排版",
+    "lighting": "柔和自然光，面部轮廓清晰",
+    "camera": "多宫格：发型、妆容、色彩、珠宝对比",
+    "quality": "清晰中文标签，干净高级",
+    "commercial_use": "适合形象咨询报告、小红书笔记封面和付费图卡"
+  },
+  "options": {
+    "quality": "high",
+    "face_strength": 0.85,
+    "output_count": 1
+  },
+  "negative_prompt": [
+    "错字",
+    "乱码",
+    "过度修图",
+    "网红脸",
+    "杂乱排版"
+  ],
+  "tags": [
+    "分析",
+    "干净留白",
+    "形象",
+    "杂志级排版",
+    "气质",
+    "米白色背景",
+    "风格",
+    "高级信息图卡"
+  ]
+}

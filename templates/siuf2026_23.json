@@ -1,0 +1,51 @@
+{
+  "template_id": "siuf2026_23",
+  "category": "SIUF 2026 内衣秀",
+  "title": "23-ink-wash-oriental",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "T台秀场",
+  "scene": "Scene: 水墨画风格场景（ink-wash），黑白灰渐变背景，水墨晕染效果，东方美学留白意境",
+  "clothing": "Outfit: 白色薄纱蕾丝内衣（lace-sheer），半透明白色薄纱蕾丝，水墨般若隐若现，极简剪裁如中国画留白，白色丝绸腰带",
+  "prompt_blocks": {
+    "subject": "Model: 亚洲年轻女性，御姐纯欲风格，25-30岁轻熟气质，韩系高级脸，鹅蛋脸型，168-172cm匀称微丰满身材，白皙通透肤色，锁骨明显，东方韵味",
+    "face": "Hair: 东方古典盘发（oriental-bun），低盘发髻松散自然，黑色发丝如墨，古典发簪装饰，额前碎发如柳叶",
+    "clothing": "Outfit: 白色薄纱蕾丝内衣（lace-sheer），半透明白色薄纱蕾丝，水墨般若隐若现，极简剪裁如中国画留白，白色丝绸腰带",
+    "scene": "Scene: 水墨画风格场景（ink-wash），黑白灰渐变背景，水墨晕染效果，东方美学留白意境",
+    "lighting": "Lighting: 柔光箱高调（soft-editorial-box）+ 电影钨丝灯（cinematic-tungsten），柔和侧光如月光",
+    "camera": "Camera: Canon EOS R5，85mm F1.8，浅景深半身，去饱和处理",
+    "quality": "Material: 半透明真丝面料（semi-silk），白色薄纱透光效果如宣纸，光线穿透面料产生水墨晕染感",
+    "commercial_use": "Mood: 神秘诗意，水墨画中的东方女性美，古典诗词的意境与留白，黑白灰中的极致优雅"
+  },
+  "negative_prompt": [
+    "plastic skin",
+    "overexposed",
+    "messy background",
+    "bad anatomy",
+    "blurred face",
+    "distorted hands",
+    "unnatural skin texture",
+    "low quality",
+    "watermark",
+    "text"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "23-ink-wash-oriental.md",
+  "tags": [
+    "SIUF",
+    "T台秀场",
+    "东方美学留白意境",
+    "内衣",
+    "时尚",
+    "水墨晕染效果",
+    "水墨般若隐若现",
+    "白色丝绸腰带",
+    "秀场",
+    "黑白灰渐变背景"
+  ]
+}

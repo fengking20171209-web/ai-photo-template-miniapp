@@ -1,0 +1,60 @@
+{
+  "template_id": "dudou_d05",
+  "category": "肚兜现代时装",
+  "title": "d05-sage-green",
+  "version": "1.0.0",
+  "ratio": "4:5",
+  "face_lock": true,
+  "style": "东方奢华时装",
+  "scene": "Scene: modern Chinese boutique hotel lobby, warm marble reflection, dark wood accents, oriental atmosphere",
+  "clothing": "Outfit: pale sage green satin dudou-inspired top, soft floral embroidery, thin neck tie and back waist tie, single diamond-shaped fabric panel, traditional Chinese dudou structure, clearly not qipao, gray high-waist fitted mini skirt, light smoky gray sheer stockings, silver high heels",
+  "prompt_blocks": {
+    "subject": "Model: young adult East Asian woman, realistic soft round face, fuller cheeks, natural facial proportions, visible skin pores, gentle smile, natural expression",
+    "face": "Hair: loose side braid, soft messy strands, relaxed feminine elegance, traditional-modern fusion",
+    "clothing": "Outfit: pale sage green satin dudou-inspired top, soft floral embroidery, thin neck tie and back waist tie, single diamond-shaped fabric panel, traditional Chinese dudou structure, clearly not qipao, gray high-waist fitted mini skirt, light smoky gray sheer stockings, silver high heels",
+    "scene": "Scene: modern Chinese boutique hotel lobby, warm marble reflection, dark wood accents, oriental atmosphere",
+    "lighting": "Lighting: warm marble reflection, hotel lobby ambient, tungsten 3200K",
+    "camera": "Camera: 85mm lens, full-body editorial fashion photography, shallow depth of field, warm tungsten lighting, realistic RAW photo texture",
+    "quality": "Material: sage green satin dudou with floral embroidery, smoky gray sheer nylon",
+    "commercial_use": "Mood: 清雅自然, refined oriental beauty"
+  },
+  "negative_prompt": [
+    "anime",
+    "cartoon",
+    "3D render",
+    "CGI",
+    "plastic skin",
+    "doll face",
+    "oversized eyes",
+    "sharp V-line face",
+    "perfect symmetry",
+    "distorted hands",
+    "bad fingers",
+    "stiff pose",
+    "over-smoothed skin",
+    "cheap glamour",
+    "vulgar erotic pose",
+    "explicit nudity",
+    "see-through exposure",
+    "qipao dress",
+    "cheongsam collar",
+    "western corset",
+    "AI-generated face",
+    "low quality",
+    "blurry face",
+    "bad anatomy"
+  ],
+  "options": {
+    "quality": "high",
+    "face_strength": 0.8,
+    "output_count": 1
+  },
+  "source_md": "d05-sage-green.md",
+  "tags": [
+    "东方奢华时装",
+    "性感",
+    "时装",
+    "现代",
+    "肚兜"
+  ]
+}
